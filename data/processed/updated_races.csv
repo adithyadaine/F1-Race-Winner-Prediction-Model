@@ -2238,3 +2238,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,5,4/20/25,Saudi Arabian Grand Prix,jeddah,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,20,18,0,29,24,33,0,17.5
 2025,5,4/20/25,Saudi Arabian Grand Prix,jeddah,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,8,19,0,29,24,33,0,17.5
 2025,5,4/20/25,Saudi Arabian Grand Prix,jeddah,gasly,Pierre Gasly,alpine,Alpine-Renault,9,20,0,29,24,33,0,17.5
+2025,6,5/4/25,Miami Grand Prix,miami,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,4,1,25,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,norris,Lando Norris,mclaren,McLaren-Mercedes,2,2,18,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,russell,George Russell,mercedes,Mercedes,5,3,15,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,1,4,12,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,albon,Alexander Albon,williams,Williams-Mercedes,7,5,10,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,3,6,8,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,leclerc,Charles Leclerc,ferrari,Ferrari,8,7,6,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,hamilton,Lewis Hamilton,ferrari,Ferrari,12,8,4,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,6,9,2,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,10,10,1,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,11,11,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,ocon,Esteban Ocon,haas,Haas-Ferrari,9,12,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,gasly,Pierre Gasly,alpine,Alpine-Renault,20,13,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,16,14,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,17,15,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,18,16,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,15,17,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,13,18,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,bearman,Oliver Bearman,haas,Haas-Ferrari,19,19,0,28,24,31,2,15
+2025,6,5/4/25,Miami Grand Prix,miami,doohan,Jack Doohan,alpine,Alpine-Renault,14,20,0,28,24,31,2,15

@@ -2237,3 +2237,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,5,4/19/25,Saudi Arabian Grand Prix,jeddah,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,18,01:28.8,,
 2025,5,4/19/25,Saudi Arabian Grand Prix,jeddah,ocon,Esteban Ocon,haas,Haas-Ferrari,19,01:29.1,,
 2025,5,4/19/25,Saudi Arabian Grand Prix,jeddah,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,20,01:29.5,,
+2025,6,5/3/25,Miami Grand Prix,miami,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,1,01:26.9,01:26.6,01:26.2
+2025,6,5/3/25,Miami Grand Prix,miami,norris,Lando Norris,mclaren,McLaren-Mercedes,2,01:27.0,01:26.5,01:26.3
+2025,6,5/3/25,Miami Grand Prix,miami,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,3,01:27.1,01:26.6,01:26.3
+2025,6,5/3/25,Miami Grand Prix,miami,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,4,01:27.0,01:26.3,01:26.4
+2025,6,5/3/25,Miami Grand Prix,miami,russell,George Russell,mercedes,Mercedes,5,01:27.0,01:26.6,01:26.4
+2025,6,5/3/25,Miami Grand Prix,miami,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,6,01:27.1,01:26.8,01:26.6
+2025,6,5/3/25,Miami Grand Prix,miami,albon,Alexander Albon,williams,Williams-Mercedes,7,01:27.0,01:26.9,01:26.7
+2025,6,5/3/25,Miami Grand Prix,miami,leclerc,Charles Leclerc,ferrari,Ferrari,8,01:27.4,01:26.9,01:26.8
+2025,6,5/3/25,Miami Grand Prix,miami,ocon,Esteban Ocon,haas,Haas-Ferrari,9,01:27.5,01:27.0,01:26.8
+2025,6,5/3/25,Miami Grand Prix,miami,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,10,01:27.3,01:27.0,01:26.9
+2025,6,5/3/25,Miami Grand Prix,miami,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,11,01:27.3,01:27.0,
+2025,6,5/3/25,Miami Grand Prix,miami,hamilton,Lewis Hamilton,ferrari,Ferrari,12,01:27.3,01:27.0,
+2025,6,5/3/25,Miami Grand Prix,miami,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,13,01:27.3,01:27.2,
+2025,6,5/3/25,Miami Grand Prix,miami,doohan,Jack Doohan,alpine,Alpine-Renault,14,01:27.4,01:27.2,
+2025,6,5/3/25,Miami Grand Prix,miami,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,15,01:27.4,01:27.4,
+2025,6,5/3/25,Miami Grand Prix,miami,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,16,01:27.5,,
+2025,6,5/3/25,Miami Grand Prix,miami,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,17,01:27.6,,
+2025,6,5/3/25,Miami Grand Prix,miami,gasly,Pierre Gasly,alpine,Alpine-Renault,18,01:27.7,,
+2025,6,5/3/25,Miami Grand Prix,miami,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,19,01:27.8,,
+2025,6,5/3/25,Miami Grand Prix,miami,bearman,Oliver Bearman,haas,Haas-Ferrari,20,01:28.0,,
