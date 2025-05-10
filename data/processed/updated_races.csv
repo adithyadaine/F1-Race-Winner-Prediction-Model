@@ -1,44 +1,44 @@
 season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,constructorName,grid,position,points,tavg,tmin,tmax,prcp,wspd
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,bottas,Valtteri Bottas,mercedes,Mercedes,1,1,25,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,7,2,18,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren,3,3,16,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,mercedes,Mercedes,5,4,12,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,sainz,Carlos Sainz,mclaren,McLaren,8,5,10,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,perez,Sergio Perez,racing_point,Racing Point,6,6,8,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alphatauri,AlphaTauri,12,7,6,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,renault,Renault,14,8,4,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,18,9,2,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,vettel,Sebastian Vettel,ferrari,Ferrari,11,10,1,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,latifi,Nicholas Latifi,williams,Williams,20,11,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,13,12,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,albon,Alexander Albon,red_bull,Red Bull,4,13,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,19,14,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,russell,George Russell,williams,Williams,17,15,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,grosjean,Romain Grosjean,haas,Haas F1 Team,15,16,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16,17,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,stroll,Lance Stroll,racing_point,Racing Point,9,18,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,ricciardo,Daniel Ricciardo,renault,Renault,10,19,0,,,,,
-2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull,2,20,0,,,,,
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,25,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,bottas,Valtteri Bottas,mercedes,Mercedes,4,2,18,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull,2,3,15,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,albon,Alexander Albon,red_bull,Red Bull,6,4,12,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren,9,5,10,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,perez,Sergio Perez,racing_point,Racing Point,17,6,8,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,stroll,Lance Stroll,racing_point,Racing Point,12,7,6,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,ricciardo,Daniel Ricciardo,renault,Renault,8,8,4,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,sainz,Carlos Sainz,mclaren,McLaren,3,9,3,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,13,10,1,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,11,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,15,12,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,grosjean,Romain Grosjean,haas,Haas F1 Team,0,13,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,19,14,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alphatauri,AlphaTauri,7,15,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,russell,George Russell,williams,Williams,11,16,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,latifi,Nicholas Latifi,williams,Williams,18,17,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,renault,Renault,5,18,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,14,19,0,15.4,11,20,,7.6
-2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,vettel,Sebastian Vettel,ferrari,Ferrari,10,20,0,15.4,11,20,,7.6
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,bottas,Valtteri Bottas,mercedes,Mercedes,1,1,25,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,7,2,18,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren,3,3,16,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,mercedes,Mercedes,5,4,12,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,sainz,Carlos Sainz,mclaren,McLaren,8,5,10,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,perez,Sergio Perez,racing_point,Racing Point,6,6,8,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alphatauri,AlphaTauri,12,7,6,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,renault,Renault,14,8,4,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,18,9,2,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,vettel,Sebastian Vettel,ferrari,Ferrari,11,10,1,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,latifi,Nicholas Latifi,williams,Williams,20,11,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,13,12,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,albon,Alexander Albon,red_bull,Red Bull,4,13,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,19,14,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,russell,George Russell,williams,Williams,17,15,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,grosjean,Romain Grosjean,haas,Haas F1 Team,15,16,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16,17,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,stroll,Lance Stroll,racing_point,Racing Point,9,18,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,ricciardo,Daniel Ricciardo,renault,Renault,10,19,0,0,0,0,0,0
+2020,1,7/5/20,Austrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull,2,20,0,0,0,0,0,0
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,25,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,bottas,Valtteri Bottas,mercedes,Mercedes,4,2,18,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull,2,3,15,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,albon,Alexander Albon,red_bull,Red Bull,6,4,12,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren,9,5,10,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,perez,Sergio Perez,racing_point,Racing Point,17,6,8,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,stroll,Lance Stroll,racing_point,Racing Point,12,7,6,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,ricciardo,Daniel Ricciardo,renault,Renault,8,8,4,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,sainz,Carlos Sainz,mclaren,McLaren,3,9,3,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,13,10,1,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,11,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,15,12,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,grosjean,Romain Grosjean,haas,Haas F1 Team,0,13,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,19,14,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alphatauri,AlphaTauri,7,15,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,russell,George Russell,williams,Williams,11,16,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,latifi,Nicholas Latifi,williams,Williams,18,17,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,renault,Renault,5,18,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,14,19,0,15.4,11,20,0,7.6
+2020,2,7/12/20,Styrian Grand Prix,red_bull_ring,vettel,Sebastian Vettel,ferrari,Ferrari,10,20,0,15.4,11,20,0,7.6
 2020,3,7/19/20,Hungarian Grand Prix,hungaroring,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,26,17.6,14.6,21.2,1.8,5.3
 2020,3,7/19/20,Hungarian Grand Prix,hungaroring,max_verstappen,Max Verstappen,red_bull,Red Bull,7,2,18,17.6,14.6,21.2,1.8,5.3
 2020,3,7/19/20,Hungarian Grand Prix,hungaroring,bottas,Valtteri Bottas,mercedes,Mercedes,2,3,15,17.6,14.6,21.2,1.8,5.3
@@ -59,66 +59,66 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2020,3,7/19/20,Hungarian Grand Prix,hungaroring,russell,George Russell,williams,Williams,12,18,0,17.6,14.6,21.2,1.8,5.3
 2020,3,7/19/20,Hungarian Grand Prix,hungaroring,latifi,Nicholas Latifi,williams,Williams,15,19,0,17.6,14.6,21.2,1.8,5.3
 2020,3,7/19/20,Hungarian Grand Prix,hungaroring,gasly,Pierre Gasly,alphatauri,AlphaTauri,10,20,0,17.6,14.6,21.2,1.8,5.3
-2020,4,8/2/20,British Grand Prix,silverstone,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,25,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,19,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,leclerc,Charles Leclerc,ferrari,Ferrari,4,3,15,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,ricciardo,Daniel Ricciardo,renault,Renault,8,4,12,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,norris,Lando Norris,mclaren,McLaren,5,5,10,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,ocon,Esteban Ocon,renault,Renault,9,6,8,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,gasly,Pierre Gasly,alphatauri,AlphaTauri,11,7,6,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,albon,Alexander Albon,red_bull,Red Bull,12,8,4,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,stroll,Lance Stroll,racing_point,Racing Point,6,9,2,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,vettel,Sebastian Vettel,ferrari,Ferrari,10,10,1,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,bottas,Valtteri Bottas,mercedes,Mercedes,2,11,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,russell,George Russell,williams,Williams,20,12,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,sainz,Carlos Sainz,mclaren,McLaren,7,13,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,15,14,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,latifi,Nicholas Latifi,williams,Williams,18,15,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,grosjean,Romain Grosjean,haas,Haas F1 Team,17,16,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,17,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,19,18,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,14,19,0,,,,,
-2020,4,8/2/20,British Grand Prix,silverstone,hulkenberg,Nico Hulkenberg,racing_point,Racing Point,13,20,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,max_verstappen,Max Verstappen,red_bull,Red Bull,4,1,25,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,hamilton,Lewis Hamilton,mercedes,Mercedes,2,2,19,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,bottas,Valtteri Bottas,mercedes,Mercedes,1,3,15,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,leclerc,Charles Leclerc,ferrari,Ferrari,8,4,12,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,albon,Alexander Albon,red_bull,Red Bull,9,5,10,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,stroll,Lance Stroll,racing_point,Racing Point,6,6,8,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,hulkenberg,Nico Hulkenberg,racing_point,Racing Point,3,7,6,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,ocon,Esteban Ocon,renault,Renault,14,8,4,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,norris,Lando Norris,mclaren,McLaren,10,9,2,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,16,10,1,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,gasly,Pierre Gasly,alphatauri,AlphaTauri,7,11,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,vettel,Sebastian Vettel,ferrari,Ferrari,11,12,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,sainz,Carlos Sainz,mclaren,McLaren,12,13,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,ricciardo,Daniel Ricciardo,renault,Renault,5,14,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,20,15,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,grosjean,Romain Grosjean,haas,Haas F1 Team,13,16,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,19,17,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,russell,George Russell,williams,Williams,15,18,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,latifi,Nicholas Latifi,williams,Williams,18,19,0,,,,,
-2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17,20,0,,,,,
-2020,6,8/16/20,Spanish Grand Prix,catalunya,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,25,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,18,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,bottas,Valtteri Bottas,mercedes,Mercedes,2,3,16,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,stroll,Lance Stroll,racing_point,Racing Point,5,4,12,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,perez,Sergio Perez,racing_point,Racing Point,4,5,10,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,sainz,Carlos Sainz,mclaren,McLaren,7,6,8,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,vettel,Sebastian Vettel,ferrari,Ferrari,11,7,6,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,albon,Alexander Albon,red_bull,Red Bull,6,8,4,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,gasly,Pierre Gasly,alphatauri,AlphaTauri,10,9,2,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,norris,Lando Norris,mclaren,McLaren,8,10,1,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,ricciardo,Daniel Ricciardo,renault,Renault,13,11,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,12,12,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,ocon,Esteban Ocon,renault,Renault,15,13,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,14,14,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16,15,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,20,16,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,russell,George Russell,williams,Williams,18,17,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,latifi,Nicholas Latifi,williams,Williams,19,18,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,grosjean,Romain Grosjean,haas,Haas F1 Team,17,19,0,24.9,20,29,,7.8
-2020,6,8/16/20,Spanish Grand Prix,catalunya,leclerc,Charles Leclerc,ferrari,Ferrari,9,20,0,24.9,20,29,,7.8
+2020,4,8/2/20,British Grand Prix,silverstone,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,25,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,19,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,leclerc,Charles Leclerc,ferrari,Ferrari,4,3,15,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,ricciardo,Daniel Ricciardo,renault,Renault,8,4,12,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,norris,Lando Norris,mclaren,McLaren,5,5,10,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,ocon,Esteban Ocon,renault,Renault,9,6,8,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,gasly,Pierre Gasly,alphatauri,AlphaTauri,11,7,6,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,albon,Alexander Albon,red_bull,Red Bull,12,8,4,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,stroll,Lance Stroll,racing_point,Racing Point,6,9,2,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,vettel,Sebastian Vettel,ferrari,Ferrari,10,10,1,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,bottas,Valtteri Bottas,mercedes,Mercedes,2,11,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,russell,George Russell,williams,Williams,20,12,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,sainz,Carlos Sainz,mclaren,McLaren,7,13,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,15,14,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,latifi,Nicholas Latifi,williams,Williams,18,15,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,grosjean,Romain Grosjean,haas,Haas F1 Team,17,16,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,17,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,19,18,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,14,19,0,0,0,0,0,0
+2020,4,8/2/20,British Grand Prix,silverstone,hulkenberg,Nico Hulkenberg,racing_point,Racing Point,13,20,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,max_verstappen,Max Verstappen,red_bull,Red Bull,4,1,25,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,hamilton,Lewis Hamilton,mercedes,Mercedes,2,2,19,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,bottas,Valtteri Bottas,mercedes,Mercedes,1,3,15,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,leclerc,Charles Leclerc,ferrari,Ferrari,8,4,12,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,albon,Alexander Albon,red_bull,Red Bull,9,5,10,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,stroll,Lance Stroll,racing_point,Racing Point,6,6,8,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,hulkenberg,Nico Hulkenberg,racing_point,Racing Point,3,7,6,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,ocon,Esteban Ocon,renault,Renault,14,8,4,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,norris,Lando Norris,mclaren,McLaren,10,9,2,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,16,10,1,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,gasly,Pierre Gasly,alphatauri,AlphaTauri,7,11,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,vettel,Sebastian Vettel,ferrari,Ferrari,11,12,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,sainz,Carlos Sainz,mclaren,McLaren,12,13,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,ricciardo,Daniel Ricciardo,renault,Renault,5,14,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,20,15,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,grosjean,Romain Grosjean,haas,Haas F1 Team,13,16,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,19,17,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,russell,George Russell,williams,Williams,15,18,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,latifi,Nicholas Latifi,williams,Williams,18,19,0,0,0,0,0,0
+2020,5,8/9/20,70th Anniversary Grand Prix,silverstone,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,17,20,0,0,0,0,0,0
+2020,6,8/16/20,Spanish Grand Prix,catalunya,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,25,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,18,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,bottas,Valtteri Bottas,mercedes,Mercedes,2,3,16,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,stroll,Lance Stroll,racing_point,Racing Point,5,4,12,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,perez,Sergio Perez,racing_point,Racing Point,4,5,10,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,sainz,Carlos Sainz,mclaren,McLaren,7,6,8,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,vettel,Sebastian Vettel,ferrari,Ferrari,11,7,6,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,albon,Alexander Albon,red_bull,Red Bull,6,8,4,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,gasly,Pierre Gasly,alphatauri,AlphaTauri,10,9,2,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,norris,Lando Norris,mclaren,McLaren,8,10,1,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,ricciardo,Daniel Ricciardo,renault,Renault,13,11,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,12,12,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,ocon,Esteban Ocon,renault,Renault,15,13,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,14,14,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,16,15,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,20,16,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,russell,George Russell,williams,Williams,18,17,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,latifi,Nicholas Latifi,williams,Williams,19,18,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,grosjean,Romain Grosjean,haas,Haas F1 Team,17,19,0,24.9,20,29,0,7.8
+2020,6,8/16/20,Spanish Grand Prix,catalunya,leclerc,Charles Leclerc,ferrari,Ferrari,9,20,0,24.9,20,29,0,7.8
 2020,7,8/30/20,Belgian Grand Prix,spa,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,25,12.5,9.3,17.2,8.7,7.4
 2020,7,8/30/20,Belgian Grand Prix,spa,bottas,Valtteri Bottas,mercedes,Mercedes,2,2,18,12.5,9.3,17.2,8.7,7.4
 2020,7,8/30/20,Belgian Grand Prix,spa,max_verstappen,Max Verstappen,red_bull,Red Bull,3,3,15,12.5,9.3,17.2,8.7,7.4
@@ -139,66 +139,66 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2020,7,8/30/20,Belgian Grand Prix,spa,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,18,18,0,12.5,9.3,17.2,8.7,7.4
 2020,7,8/30/20,Belgian Grand Prix,spa,russell,George Russell,williams,Williams,15,19,0,12.5,9.3,17.2,8.7,7.4
 2020,7,8/30/20,Belgian Grand Prix,spa,sainz,Carlos Sainz,mclaren,McLaren,7,20,0,12.5,9.3,17.2,8.7,7.4
-2020,8,9/6/20,Italian Grand Prix,monza,gasly,Pierre Gasly,alphatauri,AlphaTauri,10,1,25,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,sainz,Carlos Sainz,mclaren,McLaren,3,2,18,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,stroll,Lance Stroll,racing_point,Racing Point,8,3,15,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,norris,Lando Norris,mclaren,McLaren,6,4,12,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,bottas,Valtteri Bottas,mercedes,Mercedes,2,5,10,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,ricciardo,Daniel Ricciardo,renault,Renault,7,6,8,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,hamilton,Lewis Hamilton,mercedes,Mercedes,1,7,7,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,ocon,Esteban Ocon,renault,Renault,12,8,4,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,11,9,2,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,perez,Sergio Perez,racing_point,Racing Point,4,10,1,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,latifi,Nicholas Latifi,williams,Williams,20,11,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,grosjean,Romain Grosjean,haas,Haas F1 Team,16,12,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,14,13,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,russell,George Russell,williams,Williams,19,14,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,albon,Alexander Albon,red_bull,Red Bull,9,15,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,18,16,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,max_verstappen,Max Verstappen,red_bull,Red Bull,5,17,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,leclerc,Charles Leclerc,ferrari,Ferrari,13,18,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,15,19,0,23,16,29,,5.9
-2020,8,9/6/20,Italian Grand Prix,monza,vettel,Sebastian Vettel,ferrari,Ferrari,17,20,0,23,16,29,,5.9
-2020,9,9/13/20,Tuscan Grand Prix,mugello,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,26,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,bottas,Valtteri Bottas,mercedes,Mercedes,2,2,18,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,albon,Alexander Albon,red_bull,Red Bull,4,3,15,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,ricciardo,Daniel Ricciardo,renault,Renault,8,4,12,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,perez,Sergio Perez,racing_point,Racing Point,7,5,10,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,norris,Lando Norris,mclaren,McLaren,11,6,8,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,12,7,6,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,leclerc,Charles Leclerc,ferrari,Ferrari,5,8,4,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,13,9,2,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,vettel,Sebastian Vettel,ferrari,Ferrari,14,10,1,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,russell,George Russell,williams,Williams,18,11,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,grosjean,Romain Grosjean,haas,Haas F1 Team,15,12,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,stroll,Lance Stroll,racing_point,Racing Point,6,13,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,ocon,Esteban Ocon,renault,Renault,10,14,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,latifi,Nicholas Latifi,williams,Williams,19,15,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,20,16,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,17,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,sainz,Carlos Sainz,mclaren,McLaren,9,18,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,max_verstappen,Max Verstappen,red_bull,Red Bull,3,19,0,,,,,
-2020,9,9/13/20,Tuscan Grand Prix,mugello,gasly,Pierre Gasly,alphatauri,AlphaTauri,16,20,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,bottas,Valtteri Bottas,mercedes,Mercedes,3,1,26,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,max_verstappen,Max Verstappen,red_bull,Red Bull,2,2,18,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,hamilton,Lewis Hamilton,mercedes,Mercedes,1,3,15,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,perez,Sergio Perez,racing_point,Racing Point,4,4,12,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,ricciardo,Daniel Ricciardo,renault,Renault,5,5,10,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,leclerc,Charles Leclerc,ferrari,Ferrari,10,6,8,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,ocon,Esteban Ocon,renault,Renault,7,7,6,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,11,8,4,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,9,2,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,albon,Alexander Albon,red_bull,Red Bull,15,10,1,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,11,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,18,12,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,vettel,Sebastian Vettel,ferrari,Ferrari,14,13,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,19,14,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,norris,Lando Norris,mclaren,McLaren,8,15,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,latifi,Nicholas Latifi,williams,Williams,20,16,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,grosjean,Romain Grosjean,haas,Haas F1 Team,16,17,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,russell,George Russell,williams,Williams,13,18,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,sainz,Carlos Sainz,mclaren,McLaren,6,19,0,,,,,
-2020,10,9/27/20,Russian Grand Prix,sochi,stroll,Lance Stroll,racing_point,Racing Point,12,20,0,,,,,
+2020,8,9/6/20,Italian Grand Prix,monza,gasly,Pierre Gasly,alphatauri,AlphaTauri,10,1,25,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,sainz,Carlos Sainz,mclaren,McLaren,3,2,18,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,stroll,Lance Stroll,racing_point,Racing Point,8,3,15,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,norris,Lando Norris,mclaren,McLaren,6,4,12,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,bottas,Valtteri Bottas,mercedes,Mercedes,2,5,10,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,ricciardo,Daniel Ricciardo,renault,Renault,7,6,8,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,hamilton,Lewis Hamilton,mercedes,Mercedes,1,7,7,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,ocon,Esteban Ocon,renault,Renault,12,8,4,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,11,9,2,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,perez,Sergio Perez,racing_point,Racing Point,4,10,1,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,latifi,Nicholas Latifi,williams,Williams,20,11,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,grosjean,Romain Grosjean,haas,Haas F1 Team,16,12,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,14,13,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,russell,George Russell,williams,Williams,19,14,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,albon,Alexander Albon,red_bull,Red Bull,9,15,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,18,16,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,max_verstappen,Max Verstappen,red_bull,Red Bull,5,17,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,leclerc,Charles Leclerc,ferrari,Ferrari,13,18,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,15,19,0,23,16,29,0,5.9
+2020,8,9/6/20,Italian Grand Prix,monza,vettel,Sebastian Vettel,ferrari,Ferrari,17,20,0,23,16,29,0,5.9
+2020,9,9/13/20,Tuscan Grand Prix,mugello,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,26,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,bottas,Valtteri Bottas,mercedes,Mercedes,2,2,18,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,albon,Alexander Albon,red_bull,Red Bull,4,3,15,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,ricciardo,Daniel Ricciardo,renault,Renault,8,4,12,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,perez,Sergio Perez,racing_point,Racing Point,7,5,10,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,norris,Lando Norris,mclaren,McLaren,11,6,8,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,12,7,6,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,leclerc,Charles Leclerc,ferrari,Ferrari,5,8,4,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,13,9,2,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,vettel,Sebastian Vettel,ferrari,Ferrari,14,10,1,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,russell,George Russell,williams,Williams,18,11,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,grosjean,Romain Grosjean,haas,Haas F1 Team,15,12,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,stroll,Lance Stroll,racing_point,Racing Point,6,13,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,ocon,Esteban Ocon,renault,Renault,10,14,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,latifi,Nicholas Latifi,williams,Williams,19,15,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,20,16,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,17,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,sainz,Carlos Sainz,mclaren,McLaren,9,18,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,max_verstappen,Max Verstappen,red_bull,Red Bull,3,19,0,0,0,0,0,0
+2020,9,9/13/20,Tuscan Grand Prix,mugello,gasly,Pierre Gasly,alphatauri,AlphaTauri,16,20,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,bottas,Valtteri Bottas,mercedes,Mercedes,3,1,26,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,max_verstappen,Max Verstappen,red_bull,Red Bull,2,2,18,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,hamilton,Lewis Hamilton,mercedes,Mercedes,1,3,15,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,perez,Sergio Perez,racing_point,Racing Point,4,4,12,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,ricciardo,Daniel Ricciardo,renault,Renault,5,5,10,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,leclerc,Charles Leclerc,ferrari,Ferrari,10,6,8,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,ocon,Esteban Ocon,renault,Renault,7,7,6,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,11,8,4,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,9,2,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,albon,Alexander Albon,red_bull,Red Bull,15,10,1,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,11,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,18,12,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,vettel,Sebastian Vettel,ferrari,Ferrari,14,13,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,19,14,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,norris,Lando Norris,mclaren,McLaren,8,15,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,latifi,Nicholas Latifi,williams,Williams,20,16,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,grosjean,Romain Grosjean,haas,Haas F1 Team,16,17,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,russell,George Russell,williams,Williams,13,18,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,sainz,Carlos Sainz,mclaren,McLaren,6,19,0,0,0,0,0,0
+2020,10,9/27/20,Russian Grand Prix,sochi,stroll,Lance Stroll,racing_point,Racing Point,12,20,0,0,0,0,0,0
 2020,11,10/11/20,Eifel Grand Prix,nurburgring,hamilton,Lewis Hamilton,mercedes,Mercedes,2,1,25,7.4,4.9,10.6,0,7.6
 2020,11,10/11/20,Eifel Grand Prix,nurburgring,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,19,7.4,4.9,10.6,0,7.6
 2020,11,10/11/20,Eifel Grand Prix,nurburgring,ricciardo,Daniel Ricciardo,renault,Renault,6,3,15,7.4,4.9,10.6,0,7.6
@@ -219,26 +219,26 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2020,11,10/11/20,Eifel Grand Prix,nurburgring,ocon,Esteban Ocon,renault,Renault,7,18,0,7.4,4.9,10.6,0,7.6
 2020,11,10/11/20,Eifel Grand Prix,nurburgring,bottas,Valtteri Bottas,mercedes,Mercedes,1,19,0,7.4,4.9,10.6,0,7.6
 2020,11,10/11/20,Eifel Grand Prix,nurburgring,russell,George Russell,williams,Williams,17,20,0,7.4,4.9,10.6,0,7.6
-2020,12,10/25/20,Portuguese Grand Prix,portimao,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,26,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,bottas,Valtteri Bottas,mercedes,Mercedes,2,2,18,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,max_verstappen,Max Verstappen,red_bull,Red Bull,3,3,15,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,leclerc,Charles Leclerc,ferrari,Ferrari,4,4,12,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,5,10,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,sainz,Carlos Sainz,mclaren,McLaren,7,6,8,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,perez,Sergio Perez,racing_point,Racing Point,5,7,6,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,ocon,Esteban Ocon,renault,Renault,11,8,4,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,ricciardo,Daniel Ricciardo,renault,Renault,10,9,2,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,vettel,Sebastian Vettel,ferrari,Ferrari,15,10,1,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,11,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,albon,Alexander Albon,red_bull,Red Bull,6,12,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,norris,Lando Norris,mclaren,McLaren,8,13,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,russell,George Russell,williams,Williams,14,14,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,15,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,19,16,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,grosjean,Romain Grosjean,haas,Haas F1 Team,18,17,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,latifi,Nicholas Latifi,williams,Williams,20,18,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,13,19,0,,,,,
-2020,12,10/25/20,Portuguese Grand Prix,portimao,stroll,Lance Stroll,racing_point,Racing Point,12,20,0,,,,,
+2020,12,10/25/20,Portuguese Grand Prix,portimao,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,26,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,bottas,Valtteri Bottas,mercedes,Mercedes,2,2,18,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,max_verstappen,Max Verstappen,red_bull,Red Bull,3,3,15,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,leclerc,Charles Leclerc,ferrari,Ferrari,4,4,12,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,5,10,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,sainz,Carlos Sainz,mclaren,McLaren,7,6,8,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,perez,Sergio Perez,racing_point,Racing Point,5,7,6,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,ocon,Esteban Ocon,renault,Renault,11,8,4,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,ricciardo,Daniel Ricciardo,renault,Renault,10,9,2,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,vettel,Sebastian Vettel,ferrari,Ferrari,15,10,1,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,11,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,albon,Alexander Albon,red_bull,Red Bull,6,12,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,norris,Lando Norris,mclaren,McLaren,8,13,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,russell,George Russell,williams,Williams,14,14,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,15,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,19,16,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,grosjean,Romain Grosjean,haas,Haas F1 Team,18,17,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,latifi,Nicholas Latifi,williams,Williams,20,18,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,13,19,0,0,0,0,0,0
+2020,12,10/25/20,Portuguese Grand Prix,portimao,stroll,Lance Stroll,racing_point,Racing Point,12,20,0,0,0,0,0,0
 2020,13,11/1/20,Emilia Romagna Grand Prix,imola,hamilton,Lewis Hamilton,mercedes,Mercedes,2,1,26,12.1,6.8,17,,3.1
 2020,13,11/1/20,Emilia Romagna Grand Prix,imola,bottas,Valtteri Bottas,mercedes,Mercedes,1,2,18,12.1,6.8,17,,3.1
 2020,13,11/1/20,Emilia Romagna Grand Prix,imola,ricciardo,Daniel Ricciardo,renault,Renault,5,3,15,12.1,6.8,17,,3.1
@@ -319,86 +319,86 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2020,16,12/6/20,Sakhir Grand Prix,bahrain,latifi,Nicholas Latifi,williams,Williams,16,18,0,23.2,20,27.5,4.3,22.2
 2020,16,12/6/20,Sakhir Grand Prix,bahrain,max_verstappen,Max Verstappen,red_bull,Red Bull,3,19,0,23.2,20,27.5,4.3,22.2
 2020,16,12/6/20,Sakhir Grand Prix,bahrain,leclerc,Charles Leclerc,ferrari,Ferrari,4,20,0,23.2,20,27.5,4.3,22.2
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,25,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,bottas,Valtteri Bottas,mercedes,Mercedes,2,2,18,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,hamilton,Lewis Hamilton,mercedes,Mercedes,3,3,15,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,albon,Alexander Albon,red_bull,Red Bull,5,4,12,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,norris,Lando Norris,mclaren,McLaren,4,5,10,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,sainz,Carlos Sainz,mclaren,McLaren,6,6,8,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,ricciardo,Daniel Ricciardo,renault,Renault,11,7,7,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,8,4,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,ocon,Esteban Ocon,renault,Renault,10,9,2,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,stroll,Lance Stroll,racing_point,Racing Point,8,10,1,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,7,11,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,15,12,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,leclerc,Charles Leclerc,ferrari,Ferrari,12,13,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,vettel,Sebastian Vettel,ferrari,Ferrari,13,14,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,russell,George Russell,williams,Williams,16,15,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,14,16,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,latifi,Nicholas Latifi,williams,Williams,18,17,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,20,18,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,pietro_fittipaldi,Pietro Fittipaldi,haas,Haas F1 Team,17,19,0,21.3,16.8,24.3,,11.7
-2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,perez,Sergio Perez,racing_point,Racing Point,19,20,0,21.3,16.8,24.3,,11.7
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,hamilton,Lewis Hamilton,mercedes,Mercedes,2,1,25,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,max_verstappen,Max Verstappen,red_bull,Red Bull,1,2,18,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,bottas,Valtteri Bottas,mercedes,Mercedes,3,3,16,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,norris,Lando Norris,mclaren,McLaren,7,4,12,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,perez,Sergio Perez,red_bull,Red Bull,0,5,10,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,leclerc,Charles Leclerc,ferrari,Ferrari,4,6,8,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,ricciardo,Daniel Ricciardo,mclaren,McLaren,6,7,6,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,sainz,Carlos Sainz,ferrari,Ferrari,8,8,4,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,13,9,2,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,stroll,Lance Stroll,aston_martin,Aston Martin,10,10,1,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,14,11,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,12,12,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,ocon,Esteban Ocon,alpine,Alpine F1 Team,16,13,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,russell,George Russell,williams,Williams,15,14,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,vettel,Sebastian Vettel,aston_martin,Aston Martin,20,15,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,18,16,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,gasly,Pierre Gasly,alphatauri,AlphaTauri,5,17,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,latifi,Nicholas Latifi,williams,Williams,17,18,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,alonso,Fernando Alonso,alpine,Alpine F1 Team,9,19,0,21.6,20,23.5,,44.9
-2021,1,3/28/21,Bahrain Grand Prix,bahrain,mazepin,Nikita Mazepin,haas,Haas F1 Team,19,20,0,21.6,20,23.5,,44.9
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,max_verstappen,Max Verstappen,red_bull,Red Bull,3,1,25,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,hamilton,Lewis Hamilton,mercedes,Mercedes,1,2,19,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,norris,Lando Norris,mclaren,McLaren,7,3,15,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,leclerc,Charles Leclerc,ferrari,Ferrari,4,4,12,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,sainz,Carlos Sainz,ferrari,Ferrari,11,5,10,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,ricciardo,Daniel Ricciardo,mclaren,McLaren,6,6,8,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,gasly,Pierre Gasly,alphatauri,AlphaTauri,5,7,6,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,stroll,Lance Stroll,aston_martin,Aston Martin,10,8,4,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,ocon,Esteban Ocon,alpine,Alpine F1 Team,9,9,2,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,alonso,Fernando Alonso,alpine,Alpine F1 Team,15,10,1,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,perez,Sergio Perez,red_bull,Red Bull,2,11,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,20,12,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,13,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,14,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,vettel,Sebastian Vettel,aston_martin,Aston Martin,0,15,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,18,16,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,mazepin,Nikita Mazepin,haas,Haas F1 Team,19,17,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,bottas,Valtteri Bottas,mercedes,Mercedes,8,18,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,russell,George Russell,williams,Williams,12,19,0,9.1,5,13,,6.3
-2021,2,4/18/21,Emilia Romagna Grand Prix,imola,latifi,Nicholas Latifi,williams,Williams,14,20,0,9.1,5,13,,6.3
-2021,3,5/2/21,Portuguese Grand Prix,portimao,hamilton,Lewis Hamilton,mercedes,Mercedes,2,1,25,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,18,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,bottas,Valtteri Bottas,mercedes,Mercedes,1,3,16,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,perez,Sergio Perez,red_bull,Red Bull,4,4,12,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,norris,Lando Norris,mclaren,McLaren,7,5,10,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,leclerc,Charles Leclerc,ferrari,Ferrari,8,6,8,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,ocon,Esteban Ocon,alpine,Alpine F1 Team,6,7,6,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,alonso,Fernando Alonso,alpine,Alpine F1 Team,13,8,4,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,ricciardo,Daniel Ricciardo,mclaren,McLaren,16,9,2,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,10,1,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,sainz,Carlos Sainz,ferrari,Ferrari,5,11,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,12,12,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,vettel,Sebastian Vettel,aston_martin,Aston Martin,10,13,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,stroll,Lance Stroll,aston_martin,Aston Martin,17,14,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,14,15,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,russell,George Russell,williams,Williams,11,16,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19,17,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,latifi,Nicholas Latifi,williams,Williams,18,18,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,19,0,,,,,
-2021,3,5/2/21,Portuguese Grand Prix,portimao,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,15,20,0,,,,,
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,25,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,bottas,Valtteri Bottas,mercedes,Mercedes,2,2,18,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,hamilton,Lewis Hamilton,mercedes,Mercedes,3,3,15,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,albon,Alexander Albon,red_bull,Red Bull,5,4,12,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,norris,Lando Norris,mclaren,McLaren,4,5,10,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,sainz,Carlos Sainz,mclaren,McLaren,6,6,8,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,ricciardo,Daniel Ricciardo,renault,Renault,11,7,7,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,8,4,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,ocon,Esteban Ocon,renault,Renault,10,9,2,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,stroll,Lance Stroll,racing_point,Racing Point,8,10,1,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,kvyat,Daniil Kvyat,alphatauri,AlphaTauri,7,11,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,15,12,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,leclerc,Charles Leclerc,ferrari,Ferrari,12,13,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,vettel,Sebastian Vettel,ferrari,Ferrari,13,14,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,russell,George Russell,williams,Williams,16,15,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,14,16,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,latifi,Nicholas Latifi,williams,Williams,18,17,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,20,18,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,pietro_fittipaldi,Pietro Fittipaldi,haas,Haas F1 Team,17,19,0,21.3,16.8,24.3,0,11.7
+2020,17,12/13/20,Abu Dhabi Grand Prix,yas_marina,perez,Sergio Perez,racing_point,Racing Point,19,20,0,21.3,16.8,24.3,0,11.7
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,hamilton,Lewis Hamilton,mercedes,Mercedes,2,1,25,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,max_verstappen,Max Verstappen,red_bull,Red Bull,1,2,18,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,bottas,Valtteri Bottas,mercedes,Mercedes,3,3,16,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,norris,Lando Norris,mclaren,McLaren,7,4,12,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,perez,Sergio Perez,red_bull,Red Bull,0,5,10,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,leclerc,Charles Leclerc,ferrari,Ferrari,4,6,8,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,ricciardo,Daniel Ricciardo,mclaren,McLaren,6,7,6,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,sainz,Carlos Sainz,ferrari,Ferrari,8,8,4,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,13,9,2,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,stroll,Lance Stroll,aston_martin,Aston Martin,10,10,1,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,14,11,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,12,12,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,ocon,Esteban Ocon,alpine,Alpine F1 Team,16,13,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,russell,George Russell,williams,Williams,15,14,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,vettel,Sebastian Vettel,aston_martin,Aston Martin,20,15,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,18,16,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,gasly,Pierre Gasly,alphatauri,AlphaTauri,5,17,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,latifi,Nicholas Latifi,williams,Williams,17,18,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,alonso,Fernando Alonso,alpine,Alpine F1 Team,9,19,0,21.6,20,23.5,0,44.9
+2021,1,3/28/21,Bahrain Grand Prix,bahrain,mazepin,Nikita Mazepin,haas,Haas F1 Team,19,20,0,21.6,20,23.5,0,44.9
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,max_verstappen,Max Verstappen,red_bull,Red Bull,3,1,25,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,hamilton,Lewis Hamilton,mercedes,Mercedes,1,2,19,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,norris,Lando Norris,mclaren,McLaren,7,3,15,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,leclerc,Charles Leclerc,ferrari,Ferrari,4,4,12,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,sainz,Carlos Sainz,ferrari,Ferrari,11,5,10,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,ricciardo,Daniel Ricciardo,mclaren,McLaren,6,6,8,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,gasly,Pierre Gasly,alphatauri,AlphaTauri,5,7,6,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,stroll,Lance Stroll,aston_martin,Aston Martin,10,8,4,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,ocon,Esteban Ocon,alpine,Alpine F1 Team,9,9,2,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,alonso,Fernando Alonso,alpine,Alpine F1 Team,15,10,1,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,perez,Sergio Perez,red_bull,Red Bull,2,11,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,20,12,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,13,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,14,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,vettel,Sebastian Vettel,aston_martin,Aston Martin,0,15,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,18,16,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,mazepin,Nikita Mazepin,haas,Haas F1 Team,19,17,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,bottas,Valtteri Bottas,mercedes,Mercedes,8,18,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,russell,George Russell,williams,Williams,12,19,0,9.1,5,13,0,6.3
+2021,2,4/18/21,Emilia Romagna Grand Prix,imola,latifi,Nicholas Latifi,williams,Williams,14,20,0,9.1,5,13,0,6.3
+2021,3,5/2/21,Portuguese Grand Prix,portimao,hamilton,Lewis Hamilton,mercedes,Mercedes,2,1,25,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,18,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,bottas,Valtteri Bottas,mercedes,Mercedes,1,3,16,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,perez,Sergio Perez,red_bull,Red Bull,4,4,12,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,norris,Lando Norris,mclaren,McLaren,7,5,10,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,leclerc,Charles Leclerc,ferrari,Ferrari,8,6,8,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,ocon,Esteban Ocon,alpine,Alpine F1 Team,6,7,6,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,alonso,Fernando Alonso,alpine,Alpine F1 Team,13,8,4,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,ricciardo,Daniel Ricciardo,mclaren,McLaren,16,9,2,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,10,1,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,sainz,Carlos Sainz,ferrari,Ferrari,5,11,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,12,12,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,vettel,Sebastian Vettel,aston_martin,Aston Martin,10,13,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,stroll,Lance Stroll,aston_martin,Aston Martin,17,14,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,14,15,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,russell,George Russell,williams,Williams,11,16,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19,17,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,latifi,Nicholas Latifi,williams,Williams,18,18,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,19,0,0,0,0,0,0
+2021,3,5/2/21,Portuguese Grand Prix,portimao,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,15,20,0,0,0,0,0,0
 2021,4,5/9/21,Spanish Grand Prix,catalunya,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,25,17.4,11,23,0,8.4
 2021,4,5/9/21,Spanish Grand Prix,catalunya,max_verstappen,Max Verstappen,red_bull,Red Bull,2,2,19,17.4,11,23,0,8.4
 2021,4,5/9/21,Spanish Grand Prix,catalunya,bottas,Valtteri Bottas,mercedes,Mercedes,3,3,15,17.4,11,23,0,8.4
@@ -439,26 +439,26 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2021,5,5/23/21,Monaco Grand Prix,monaco,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,20,18,0,15.8,9.4,21.5,0,7.5
 2021,5,5/23/21,Monaco Grand Prix,monaco,bottas,Valtteri Bottas,mercedes,Mercedes,3,19,0,15.8,9.4,21.5,0,7.5
 2021,5,5/23/21,Monaco Grand Prix,monaco,leclerc,Charles Leclerc,ferrari,Ferrari,1,20,0,15.8,9.4,21.5,0,7.5
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,perez,Sergio Perez,red_bull,Red Bull,6,1,25,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,vettel,Sebastian Vettel,aston_martin,Aston Martin,11,2,18,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,gasly,Pierre Gasly,alphatauri,AlphaTauri,4,3,15,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,leclerc,Charles Leclerc,ferrari,Ferrari,1,4,12,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,norris,Lando Norris,mclaren,McLaren,9,5,10,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,alonso,Fernando Alonso,alpine,Alpine F1 Team,8,6,8,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,7,7,6,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,sainz,Carlos Sainz,ferrari,Ferrari,5,8,4,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,ricciardo,Daniel Ricciardo,mclaren,McLaren,13,9,2,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,14,10,1,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,20,11,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,bottas,Valtteri Bottas,mercedes,Mercedes,10,12,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,17,13,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,mazepin,Nikita Mazepin,haas,Haas F1 Team,18,14,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,hamilton,Lewis Hamilton,mercedes,Mercedes,2,15,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,latifi,Nicholas Latifi,williams,Williams,16,16,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,russell,George Russell,williams,Williams,15,17,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,max_verstappen,Max Verstappen,red_bull,Red Bull,3,18,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,stroll,Lance Stroll,aston_martin,Aston Martin,19,19,0,21.5,19,25,,29.2
-2021,6,6/6/21,Azerbaijan Grand Prix,baku,ocon,Esteban Ocon,alpine,Alpine F1 Team,12,20,0,21.5,19,25,,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,perez,Sergio Perez,red_bull,Red Bull,6,1,25,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,vettel,Sebastian Vettel,aston_martin,Aston Martin,11,2,18,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,gasly,Pierre Gasly,alphatauri,AlphaTauri,4,3,15,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,leclerc,Charles Leclerc,ferrari,Ferrari,1,4,12,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,norris,Lando Norris,mclaren,McLaren,9,5,10,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,alonso,Fernando Alonso,alpine,Alpine F1 Team,8,6,8,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,7,7,6,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,sainz,Carlos Sainz,ferrari,Ferrari,5,8,4,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,ricciardo,Daniel Ricciardo,mclaren,McLaren,13,9,2,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,14,10,1,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,20,11,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,bottas,Valtteri Bottas,mercedes,Mercedes,10,12,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,17,13,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,mazepin,Nikita Mazepin,haas,Haas F1 Team,18,14,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,hamilton,Lewis Hamilton,mercedes,Mercedes,2,15,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,latifi,Nicholas Latifi,williams,Williams,16,16,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,russell,George Russell,williams,Williams,15,17,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,max_verstappen,Max Verstappen,red_bull,Red Bull,3,18,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,stroll,Lance Stroll,aston_martin,Aston Martin,19,19,0,21.5,19,25,0,29.2
+2021,6,6/6/21,Azerbaijan Grand Prix,baku,ocon,Esteban Ocon,alpine,Alpine F1 Team,12,20,0,21.5,19,25,0,29.2
 2021,7,6/20/21,French Grand Prix,ricard,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,26,24.2,21.8,26.6,1.1,23.5
 2021,7,6/20/21,French Grand Prix,ricard,hamilton,Lewis Hamilton,mercedes,Mercedes,2,2,18,24.2,21.8,26.6,1.1,23.5
 2021,7,6/20/21,French Grand Prix,ricard,perez,Sergio Perez,red_bull,Red Bull,4,3,15,24.2,21.8,26.6,1.1,23.5
@@ -479,46 +479,46 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2021,7,6/20/21,French Grand Prix,ricard,latifi,Nicholas Latifi,williams,Williams,16,18,0,24.2,21.8,26.6,1.1,23.5
 2021,7,6/20/21,French Grand Prix,ricard,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,15,19,0,24.2,21.8,26.6,1.1,23.5
 2021,7,6/20/21,French Grand Prix,ricard,mazepin,Nikita Mazepin,haas,Haas F1 Team,18,20,0,24.2,21.8,26.6,1.1,23.5
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,25,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,mercedes,Mercedes,2,2,19,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,bottas,Valtteri Bottas,mercedes,Mercedes,5,3,15,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,perez,Sergio Perez,red_bull,Red Bull,4,4,12,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren,3,5,10,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,sainz,Carlos Sainz,ferrari,Ferrari,12,6,8,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,7,7,6,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,stroll,Lance Stroll,aston_martin,Aston Martin,9,8,4,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,alonso,Fernando Alonso,alpine,Alpine F1 Team,8,9,2,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,11,10,1,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,18,11,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,vettel,Sebastian Vettel,aston_martin,Aston Martin,14,12,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,ricciardo,Daniel Ricciardo,mclaren,McLaren,13,13,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,alpine,Alpine F1 Team,17,14,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,15,15,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19,16,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,latifi,Nicholas Latifi,williams,Williams,16,17,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,18,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,russell,George Russell,williams,Williams,10,19,0,20.2,14,27,,5.9
-2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alphatauri,AlphaTauri,6,20,0,20.2,14,27,,5.9
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,26,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,bottas,Valtteri Bottas,mercedes,Mercedes,5,2,18,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren,2,3,15,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,mercedes,Mercedes,4,4,12,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,sainz,Carlos Sainz,ferrari,Ferrari,10,5,10,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,perez,Sergio Perez,red_bull,Red Bull,3,6,8,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,ricciardo,Daniel Ricciardo,mclaren,McLaren,13,7,6,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,12,8,4,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alphatauri,AlphaTauri,6,9,2,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,alonso,Fernando Alonso,alpine,Alpine F1 Team,14,10,1,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,russell,George Russell,williams,Williams,8,11,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,7,12,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,stroll,Lance Stroll,aston_martin,Aston Martin,9,13,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,15,14,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,15,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,latifi,Nicholas Latifi,williams,Williams,18,16,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,vettel,Sebastian Vettel,aston_martin,Aston Martin,11,17,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19,18,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,19,0,18.3,14.7,22,,5
-2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,alpine,Alpine F1 Team,17,20,0,18.3,14.7,22,,5
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,25,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,mercedes,Mercedes,2,2,19,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,bottas,Valtteri Bottas,mercedes,Mercedes,5,3,15,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,perez,Sergio Perez,red_bull,Red Bull,4,4,12,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren,3,5,10,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,sainz,Carlos Sainz,ferrari,Ferrari,12,6,8,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,7,7,6,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,stroll,Lance Stroll,aston_martin,Aston Martin,9,8,4,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,alonso,Fernando Alonso,alpine,Alpine F1 Team,8,9,2,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,11,10,1,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,18,11,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,vettel,Sebastian Vettel,aston_martin,Aston Martin,14,12,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,ricciardo,Daniel Ricciardo,mclaren,McLaren,13,13,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,alpine,Alpine F1 Team,17,14,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,15,15,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19,16,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,latifi,Nicholas Latifi,williams,Williams,16,17,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,18,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,russell,George Russell,williams,Williams,10,19,0,20.2,14,27,0,5.9
+2021,8,6/27/21,Styrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alphatauri,AlphaTauri,6,20,0,20.2,14,27,0,5.9
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,26,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,bottas,Valtteri Bottas,mercedes,Mercedes,5,2,18,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren,2,3,15,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,mercedes,Mercedes,4,4,12,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,sainz,Carlos Sainz,ferrari,Ferrari,10,5,10,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,perez,Sergio Perez,red_bull,Red Bull,3,6,8,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,ricciardo,Daniel Ricciardo,mclaren,McLaren,13,7,6,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,12,8,4,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alphatauri,AlphaTauri,6,9,2,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,alonso,Fernando Alonso,alpine,Alpine F1 Team,14,10,1,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,russell,George Russell,williams,Williams,8,11,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,7,12,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,stroll,Lance Stroll,aston_martin,Aston Martin,9,13,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,15,14,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,16,15,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,latifi,Nicholas Latifi,williams,Williams,18,16,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,vettel,Sebastian Vettel,aston_martin,Aston Martin,11,17,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19,18,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,19,0,18.3,14.7,22,0,5
+2021,9,7/4/21,Austrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,alpine,Alpine F1 Team,17,20,0,18.3,14.7,22,0,5
 2021,10,7/18/21,British Grand Prix,silverstone,hamilton,Lewis Hamilton,mercedes,Mercedes,2,1,25,22.1,14.7,28,0,6.9
 2021,10,7/18/21,British Grand Prix,silverstone,leclerc,Charles Leclerc,ferrari,Ferrari,4,2,18,22.1,14.7,28,0,6.9
 2021,10,7/18/21,British Grand Prix,silverstone,bottas,Valtteri Bottas,mercedes,Mercedes,3,3,15,22.1,14.7,28,0,6.9
@@ -619,26 +619,26 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2021,14,9/12/21,Italian Grand Prix,monza,max_verstappen,Max Verstappen,red_bull,Red Bull,1,18,0,23.6,18.1,29.4,0,5.1
 2021,14,9/12/21,Italian Grand Prix,monza,gasly,Pierre Gasly,alphatauri,AlphaTauri,0,19,0,23.6,18.1,29.4,0,5.1
 2021,14,9/12/21,Italian Grand Prix,monza,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,0,20,0,23.6,18.1,29.4,0,5.1
-2021,15,9/26/21,Russian Grand Prix,sochi,hamilton,Lewis Hamilton,mercedes,Mercedes,4,1,25,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,max_verstappen,Max Verstappen,red_bull,Red Bull,20,2,18,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,sainz,Carlos Sainz,ferrari,Ferrari,2,3,15,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,ricciardo,Daniel Ricciardo,mclaren,McLaren,5,4,12,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,bottas,Valtteri Bottas,mercedes,Mercedes,16,5,10,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,alonso,Fernando Alonso,alpine,Alpine F1 Team,6,6,8,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,norris,Lando Norris,mclaren,McLaren,1,7,7,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,13,8,4,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,perez,Sergio Perez,red_bull,Red Bull,8,9,2,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,russell,George Russell,williams,Williams,3,10,1,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,stroll,Lance Stroll,aston_martin,Aston Martin,7,11,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,vettel,Sebastian Vettel,aston_martin,Aston Martin,10,12,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,gasly,Pierre Gasly,alphatauri,AlphaTauri,11,13,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,ocon,Esteban Ocon,alpine,Alpine F1 Team,9,14,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,leclerc,Charles Leclerc,ferrari,Ferrari,19,15,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,16,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,12,17,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,mazepin,Nikita Mazepin,haas,Haas F1 Team,15,18,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,latifi,Nicholas Latifi,williams,Williams,18,19,0,,,,,
-2021,15,9/26/21,Russian Grand Prix,sochi,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,14,20,0,,,,,
+2021,15,9/26/21,Russian Grand Prix,sochi,hamilton,Lewis Hamilton,mercedes,Mercedes,4,1,25,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,max_verstappen,Max Verstappen,red_bull,Red Bull,20,2,18,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,sainz,Carlos Sainz,ferrari,Ferrari,2,3,15,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,ricciardo,Daniel Ricciardo,mclaren,McLaren,5,4,12,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,bottas,Valtteri Bottas,mercedes,Mercedes,16,5,10,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,alonso,Fernando Alonso,alpine,Alpine F1 Team,6,6,8,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,norris,Lando Norris,mclaren,McLaren,1,7,7,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,13,8,4,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,perez,Sergio Perez,red_bull,Red Bull,8,9,2,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,russell,George Russell,williams,Williams,3,10,1,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,stroll,Lance Stroll,aston_martin,Aston Martin,7,11,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,vettel,Sebastian Vettel,aston_martin,Aston Martin,10,12,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,gasly,Pierre Gasly,alphatauri,AlphaTauri,11,13,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,ocon,Esteban Ocon,alpine,Alpine F1 Team,9,14,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,leclerc,Charles Leclerc,ferrari,Ferrari,19,15,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,17,16,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,12,17,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,mazepin,Nikita Mazepin,haas,Haas F1 Team,15,18,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,latifi,Nicholas Latifi,williams,Williams,18,19,0,0,0,0,0,0
+2021,15,9/26/21,Russian Grand Prix,sochi,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,14,20,0,0,0,0,0,0
 2021,16,10/10/21,Turkish Grand Prix,istanbul,bottas,Valtteri Bottas,mercedes,Mercedes,1,1,26,16.3,15,17,0,23.5
 2021,16,10/10/21,Turkish Grand Prix,istanbul,max_verstappen,Max Verstappen,red_bull,Red Bull,2,2,18,16.3,15,17,0,23.5
 2021,16,10/10/21,Turkish Grand Prix,istanbul,perez,Sergio Perez,red_bull,Red Bull,6,3,15,16.3,15,17,0,23.5
@@ -739,26 +739,26 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2021,20,11/21/21,Qatar Grand Prix,losail,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,18,0,25.6,24.9,26.4,0,19.3
 2021,20,11/21/21,Qatar Grand Prix,losail,latifi,Nicholas Latifi,williams,Williams,17,19,0,25.6,24.9,26.4,0,19.3
 2021,20,11/21/21,Qatar Grand Prix,losail,bottas,Valtteri Bottas,mercedes,Mercedes,6,20,0,25.6,24.9,26.4,0,19.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,26,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,18,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,bottas,Valtteri Bottas,mercedes,Mercedes,2,3,15,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,ocon,Esteban Ocon,alpine,Alpine F1 Team,9,4,12,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,ricciardo,Daniel Ricciardo,mclaren,McLaren,11,5,10,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,gasly,Pierre Gasly,alphatauri,AlphaTauri,6,6,8,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,leclerc,Charles Leclerc,ferrari,Ferrari,4,7,6,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,sainz,Carlos Sainz,ferrari,Ferrari,15,8,4,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,10,9,2,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,norris,Lando Norris,mclaren,McLaren,7,10,1,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,stroll,Lance Stroll,aston_martin,Aston Martin,18,11,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,latifi,Nicholas Latifi,williams,Williams,16,12,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,alonso,Fernando Alonso,alpine,Alpine F1 Team,13,13,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,8,14,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,12,15,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,vettel,Sebastian Vettel,aston_martin,Aston Martin,17,16,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,perez,Sergio Perez,red_bull,Red Bull,5,17,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,18,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,russell,George Russell,williams,Williams,14,19,0,28.2,23.6,32.2,,6.3
-2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19,20,0,28.2,23.6,32.2,,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,hamilton,Lewis Hamilton,mercedes,Mercedes,1,1,26,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,max_verstappen,Max Verstappen,red_bull,Red Bull,3,2,18,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,bottas,Valtteri Bottas,mercedes,Mercedes,2,3,15,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,ocon,Esteban Ocon,alpine,Alpine F1 Team,9,4,12,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,ricciardo,Daniel Ricciardo,mclaren,McLaren,11,5,10,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,gasly,Pierre Gasly,alphatauri,AlphaTauri,6,6,8,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,leclerc,Charles Leclerc,ferrari,Ferrari,4,7,6,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,sainz,Carlos Sainz,ferrari,Ferrari,15,8,4,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,10,9,2,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,norris,Lando Norris,mclaren,McLaren,7,10,1,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,stroll,Lance Stroll,aston_martin,Aston Martin,18,11,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,latifi,Nicholas Latifi,williams,Williams,16,12,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,alonso,Fernando Alonso,alpine,Alpine F1 Team,13,13,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,8,14,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,12,15,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,vettel,Sebastian Vettel,aston_martin,Aston Martin,17,16,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,perez,Sergio Perez,red_bull,Red Bull,5,17,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,18,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,russell,George Russell,williams,Williams,14,19,0,28.2,23.6,32.2,0,6.3
+2021,21,12/5/21,Saudi Arabian Grand Prix,jeddah,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,19,20,0,28.2,23.6,32.2,0,6.3
 2021,22,12/12/21,Abu Dhabi Grand Prix,yas_marina,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,26,23.6,22,26,0,12.3
 2021,22,12/12/21,Abu Dhabi Grand Prix,yas_marina,hamilton,Lewis Hamilton,mercedes,Mercedes,2,2,18,23.6,22,26,0,12.3
 2021,22,12/12/21,Abu Dhabi Grand Prix,yas_marina,sainz,Carlos Sainz,ferrari,Ferrari,5,3,15,23.6,22,26,0,12.3
@@ -779,46 +779,46 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2021,22,12/12/21,Abu Dhabi Grand Prix,yas_marina,russell,George Russell,williams,Williams,17,18,0,23.6,22,26,0,12.3
 2021,22,12/12/21,Abu Dhabi Grand Prix,yas_marina,raikkonen,Kimi Raikkonen,alfa,Alfa Romeo,18,19,0,23.6,22,26,0,12.3
 2021,22,12/12/21,Abu Dhabi Grand Prix,yas_marina,mazepin,Nikita Mazepin,haas,Haas F1 Team,20,20,0,23.6,22,26,0,12.3
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,leclerc,Charles Leclerc,ferrari,Ferrari,1,1,26,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,sainz,Carlos Sainz,ferrari,Ferrari,3,2,18,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,hamilton,Lewis Hamilton,mercedes,Mercedes,5,3,15,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,russell,George Russell,mercedes,Mercedes,9,4,12,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,7,5,10,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,bottas,Valtteri Bottas,alfa,Alfa Romeo,6,6,8,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,ocon,Esteban Ocon,alpine,Alpine F1 Team,11,7,6,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16,8,4,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,alonso,Fernando Alonso,alpine,Alpine F1 Team,8,9,2,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,zhou,Guanyu Zhou,alfa,Alfa Romeo,15,10,1,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,12,11,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,stroll,Lance Stroll,aston_martin,Aston Martin,19,12,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,albon,Alexander Albon,williams,Williams,14,13,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,ricciardo,Daniel Ricciardo,mclaren,McLaren,18,14,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,norris,Lando Norris,mclaren,McLaren,13,15,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,latifi,Nicholas Latifi,williams,Williams,20,16,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,hulkenberg,Nico Hulkenberg,aston_martin,Aston Martin,17,17,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,perez,Sergio Perez,red_bull,Red Bull,4,18,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,max_verstappen,Max Verstappen,red_bull,Red Bull,2,19,0,21.4,17.5,25.8,,18.5
-2022,1,3/20/22,Bahrain Grand Prix,bahrain,gasly,Pierre Gasly,alphatauri,AlphaTauri,10,20,0,21.4,17.5,25.8,,18.5
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,max_verstappen,Max Verstappen,red_bull,Red Bull,4,1,25,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,leclerc,Charles Leclerc,ferrari,Ferrari,2,2,19,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,sainz,Carlos Sainz,ferrari,Ferrari,3,3,15,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,perez,Sergio Perez,red_bull,Red Bull,1,4,12,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,russell,George Russell,mercedes,Mercedes,6,5,10,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,ocon,Esteban Ocon,alpine,Alpine F1 Team,5,6,8,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,norris,Lando Norris,mclaren,McLaren,11,7,6,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,8,4,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,10,9,2,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,hamilton,Lewis Hamilton,mercedes,Mercedes,15,10,1,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,zhou,Guanyu Zhou,alfa,Alfa Romeo,12,11,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,hulkenberg,Nico Hulkenberg,aston_martin,Aston Martin,17,12,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,stroll,Lance Stroll,aston_martin,Aston Martin,13,13,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,albon,Alexander Albon,williams,Williams,16,14,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,bottas,Valtteri Bottas,alfa,Alfa Romeo,8,15,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,alonso,Fernando Alonso,alpine,Alpine F1 Team,7,16,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,ricciardo,Daniel Ricciardo,mclaren,McLaren,14,17,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,latifi,Nicholas Latifi,williams,Williams,18,18,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,19,19,0,25.7,19,33.5,,17.4
-2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,0,20,0,25.7,19,33.5,,17.4
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,leclerc,Charles Leclerc,ferrari,Ferrari,1,1,26,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,sainz,Carlos Sainz,ferrari,Ferrari,3,2,18,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,hamilton,Lewis Hamilton,mercedes,Mercedes,5,3,15,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,russell,George Russell,mercedes,Mercedes,9,4,12,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,7,5,10,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,bottas,Valtteri Bottas,alfa,Alfa Romeo,6,6,8,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,ocon,Esteban Ocon,alpine,Alpine F1 Team,11,7,6,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,16,8,4,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,alonso,Fernando Alonso,alpine,Alpine F1 Team,8,9,2,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,zhou,Guanyu Zhou,alfa,Alfa Romeo,15,10,1,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,12,11,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,stroll,Lance Stroll,aston_martin,Aston Martin,19,12,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,albon,Alexander Albon,williams,Williams,14,13,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,ricciardo,Daniel Ricciardo,mclaren,McLaren,18,14,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,norris,Lando Norris,mclaren,McLaren,13,15,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,latifi,Nicholas Latifi,williams,Williams,20,16,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,hulkenberg,Nico Hulkenberg,aston_martin,Aston Martin,17,17,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,perez,Sergio Perez,red_bull,Red Bull,4,18,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,max_verstappen,Max Verstappen,red_bull,Red Bull,2,19,0,21.4,17.5,25.8,0,18.5
+2022,1,3/20/22,Bahrain Grand Prix,bahrain,gasly,Pierre Gasly,alphatauri,AlphaTauri,10,20,0,21.4,17.5,25.8,0,18.5
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,max_verstappen,Max Verstappen,red_bull,Red Bull,4,1,25,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,leclerc,Charles Leclerc,ferrari,Ferrari,2,2,19,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,sainz,Carlos Sainz,ferrari,Ferrari,3,3,15,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,perez,Sergio Perez,red_bull,Red Bull,1,4,12,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,russell,George Russell,mercedes,Mercedes,6,5,10,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,ocon,Esteban Ocon,alpine,Alpine F1 Team,5,6,8,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,norris,Lando Norris,mclaren,McLaren,11,7,6,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,gasly,Pierre Gasly,alphatauri,AlphaTauri,9,8,4,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,10,9,2,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,hamilton,Lewis Hamilton,mercedes,Mercedes,15,10,1,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,zhou,Guanyu Zhou,alfa,Alfa Romeo,12,11,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,hulkenberg,Nico Hulkenberg,aston_martin,Aston Martin,17,12,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,stroll,Lance Stroll,aston_martin,Aston Martin,13,13,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,albon,Alexander Albon,williams,Williams,16,14,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,bottas,Valtteri Bottas,alfa,Alfa Romeo,8,15,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,alonso,Fernando Alonso,alpine,Alpine F1 Team,7,16,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,ricciardo,Daniel Ricciardo,mclaren,McLaren,14,17,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,latifi,Nicholas Latifi,williams,Williams,18,18,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,19,19,0,25.7,19,33.5,0,17.4
+2022,2,3/27/22,Saudi Arabian Grand Prix,jeddah,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,0,20,0,25.7,19,33.5,0,17.4
 2022,3,4/10/22,Australian Grand Prix,albert_park,leclerc,Charles Leclerc,ferrari,Ferrari,1,1,26,20.8,16.2,28.3,0,16.2
 2022,3,4/10/22,Australian Grand Prix,albert_park,perez,Sergio Perez,red_bull,Red Bull,3,2,18,20.8,16.2,28.3,0,16.2
 2022,3,4/10/22,Australian Grand Prix,albert_park,russell,George Russell,mercedes,Mercedes,6,3,15,20.8,16.2,28.3,0,16.2
@@ -839,26 +839,26 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2022,3,4/10/22,Australian Grand Prix,albert_park,max_verstappen,Max Verstappen,red_bull,Red Bull,2,18,0,20.8,16.2,28.3,0,16.2
 2022,3,4/10/22,Australian Grand Prix,albert_park,vettel,Sebastian Vettel,aston_martin,Aston Martin,17,19,0,20.8,16.2,28.3,0,16.2
 2022,3,4/10/22,Australian Grand Prix,albert_park,sainz,Carlos Sainz,ferrari,Ferrari,9,20,0,20.8,16.2,28.3,0,16.2
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,26,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,perez,Sergio Perez,red_bull,Red Bull,3,2,18,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,norris,Lando Norris,mclaren,McLaren,5,3,15,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,russell,George Russell,mercedes,Mercedes,11,4,12,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,bottas,Valtteri Bottas,alfa,Alfa Romeo,7,5,10,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,leclerc,Charles Leclerc,ferrari,Ferrari,2,6,8,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,12,7,6,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,vettel,Sebastian Vettel,aston_martin,Aston Martin,13,8,4,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,8,9,2,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,stroll,Lance Stroll,aston_martin,Aston Martin,15,10,1,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,albon,Alexander Albon,williams,Williams,18,11,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,gasly,Pierre Gasly,alphatauri,AlphaTauri,17,12,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,hamilton,Lewis Hamilton,mercedes,Mercedes,14,13,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,ocon,Esteban Ocon,alpine,Alpine F1 Team,16,14,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,zhou,Guanyu Zhou,alfa,Alfa Romeo,0,15,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,latifi,Nicholas Latifi,williams,Williams,19,16,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,10,17,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,ricciardo,Daniel Ricciardo,mclaren,McLaren,6,18,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,alonso,Fernando Alonso,alpine,Alpine F1 Team,9,19,0,12.9,10,18,,8.3
-2022,4,4/24/22,Emilia Romagna Grand Prix,imola,sainz,Carlos Sainz,ferrari,Ferrari,4,20,0,12.9,10,18,,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,max_verstappen,Max Verstappen,red_bull,Red Bull,1,1,26,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,perez,Sergio Perez,red_bull,Red Bull,3,2,18,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,norris,Lando Norris,mclaren,McLaren,5,3,15,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,russell,George Russell,mercedes,Mercedes,11,4,12,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,bottas,Valtteri Bottas,alfa,Alfa Romeo,7,5,10,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,leclerc,Charles Leclerc,ferrari,Ferrari,2,6,8,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,tsunoda,Yuki Tsunoda,alphatauri,AlphaTauri,12,7,6,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,vettel,Sebastian Vettel,aston_martin,Aston Martin,13,8,4,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,8,9,2,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,stroll,Lance Stroll,aston_martin,Aston Martin,15,10,1,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,albon,Alexander Albon,williams,Williams,18,11,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,gasly,Pierre Gasly,alphatauri,AlphaTauri,17,12,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,hamilton,Lewis Hamilton,mercedes,Mercedes,14,13,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,ocon,Esteban Ocon,alpine,Alpine F1 Team,16,14,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,zhou,Guanyu Zhou,alfa,Alfa Romeo,0,15,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,latifi,Nicholas Latifi,williams,Williams,19,16,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,mick_schumacher,Mick Schumacher,haas,Haas F1 Team,10,17,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,ricciardo,Daniel Ricciardo,mclaren,McLaren,6,18,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,alonso,Fernando Alonso,alpine,Alpine F1 Team,9,19,0,12.9,10,18,0,8.3
+2022,4,4/24/22,Emilia Romagna Grand Prix,imola,sainz,Carlos Sainz,ferrari,Ferrari,4,20,0,12.9,10,18,0,8.3
 2022,5,5/8/22,Miami Grand Prix,miami,max_verstappen,Max Verstappen,red_bull,Red Bull,3,1,26,26.8,22.8,31.1,0.6,10.8
 2022,5,5/8/22,Miami Grand Prix,miami,leclerc,Charles Leclerc,ferrari,Ferrari,1,2,18,26.8,22.8,31.1,0.6,10.8
 2022,5,5/8/22,Miami Grand Prix,miami,sainz,Carlos Sainz,ferrari,Ferrari,2,3,15,26.8,22.8,31.1,0.6,10.8
