@@ -93,7 +93,6 @@ The project is structured as a Jupyter Notebook (`.ipynb`) file. Run the cells s
 ## Limitations
 
 *   **Model Simplicity:** While incorporating rolling metrics, the RandomForest might not capture all complex temporal patterns or interactions.
-*   **Feature Scope:** Still lacks weather, tyre strategy, detailed circuit data, qualifying time gaps, incident prediction, reliability modeling.
 *   **New Entities:** Predictions for drivers with very limited history (rookies) are less reliable as the model has little specific data to learn from. Placeholder IDs are used.
 *   **Cold Start:** Rolling features will be less informative at the very start of a new season (few or no previous races in that season).
 *   **Data Sensitivity:** Accuracy depends on the quality/completeness of historical data. The impact of a small amount of new data (e.g., 1-2 races) might be limited when retraining on a large history.
@@ -101,12 +100,10 @@ The project is structured as a Jupyter Notebook (`.ipynb`) file. Run the cells s
 
 ## Future Improvements
 
-*   Incorporate weather forecasts as features.
 *   Add more sophisticated time-series features or use models designed for sequences (e.g., LSTMs, though likely overkill here).
 *   Experiment with Gradient Boosting models (XGBoost, LightGBM).
 *   Implement proper model evaluation and hyperparameter tuning.
 *   Develop better strategies for handling new drivers (e.g., using average rookie stats, embeddings).
-*   Weight recent data more heavily in training or feature calculation.
 *   Build a simple interface (e.g., Streamlit) for easier interaction.
 
 ## Attribution
