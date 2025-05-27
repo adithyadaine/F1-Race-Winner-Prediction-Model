@@ -2257,3 +2257,43 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,6,5/3/25,Miami Grand Prix,miami,gasly,Pierre Gasly,alpine,Alpine-Renault,18,01:27.7,,
 2025,6,5/3/25,Miami Grand Prix,miami,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,19,01:27.8,,
 2025,6,5/3/25,Miami Grand Prix,miami,bearman,Oliver Bearman,haas,Haas-Ferrari,20,01:28.0,,
+2025,7,5/17/25,Emilia Romagna GP,imola,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,1,01:15.5,01:15.2,01:14.7
+2025,7,5/17/25,Emilia Romagna GP,imola,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,2,01:15.2,01:15.4,01:14.7
+2025,7,5/17/25,Emilia Romagna GP,imola,russell,George Russell,mercedes,Mercedes,3,01:15.9,01:15.3,01:14.8
+2025,7,5/17/25,Emilia Romagna GP,imola,norris,Lando Norris,mclaren,McLaren-Mercedes,4,01:15.9,01:15.3,01:15.0
+2025,7,5/17/25,Emilia Romagna GP,imola,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,5,01:15.7,01:15.4,01:15.4
+2025,7,5/17/25,Emilia Romagna GP,imola,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,6,01:16.0,01:15.2,01:15.4
+2025,7,5/17/25,Emilia Romagna GP,imola,albon,Alexander Albon,williams,Williams-Mercedes,7,01:16.1,01:15.5,01:15.5
+2025,7,5/17/25,Emilia Romagna GP,imola,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,8,01:15.8,01:15.5,01:15.6
+2025,7,5/17/25,Emilia Romagna GP,imola,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,9,01:16.3,01:15.5,01:15.7
+2025,7,5/17/25,Emilia Romagna GP,imola,gasly,Pierre Gasly,alpine,Alpine-Renault,10,01:15.9,01:15.5,01:15.8
+2025,7,5/17/25,Emilia Romagna GP,imola,leclerc,Charles Leclerc,ferrari,Ferrari,11,01:16.1,01:15.6,
+2025,7,5/17/25,Emilia Romagna GP,imola,hamilton,Lewis Hamilton,ferrari,Ferrari,12,01:16.2,01:15.8,
+2025,7,5/17/25,Emilia Romagna GP,imola,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,13,01:15.9,01:15.8,
+2025,7,5/17/25,Emilia Romagna GP,imola,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,14,01:16.3,01:16.3,
+2025,7,5/17/25,Emilia Romagna GP,imola,colapinto,Franco Colapinto,alpine,Alpine-Renault,15,01:16.3,,
+2025,7,5/17/25,Emilia Romagna GP,imola,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,16,01:16.4,,
+2025,7,5/17/25,Emilia Romagna GP,imola,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,17,01:16.5,,
+2025,7,5/17/25,Emilia Romagna GP,imola,ocon,Esteban Ocon,haas,Haas-Ferrari,18,01:16.6,,
+2025,7,5/17/25,Emilia Romagna GP,imola,bearman,Oliver Bearman,haas,Haas-Ferrari,19,01:16.9,,
+2025,7,5/17/25,Emilia Romagna GP,imola,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,20,,,
+2025,8,5/24/25,Monaco Grand Prix,monaco,norris,Lando Norris,mclaren,McLaren-Mercedes,1,01:11.3,01:10.6,01:10.0
+2025,8,5/24/25,Monaco Grand Prix,monaco,leclerc,Charles Leclerc,ferrari,Ferrari,2,01:11.2,01:10.6,01:10.1
+2025,8,5/24/25,Monaco Grand Prix,monaco,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,3,01:11.3,01:10.9,01:10.1
+2025,8,5/24/25,Monaco Grand Prix,monaco,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,4,01:11.4,01:10.9,01:10.7
+2025,8,5/24/25,Monaco Grand Prix,monaco,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,5,01:11.8,01:11.0,01:10.9
+2025,8,5/24/25,Monaco Grand Prix,monaco,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,6,01:11.7,01:11.2,01:10.9
+2025,8,5/24/25,Monaco Grand Prix,monaco,hamilton,Lewis Hamilton,ferrari,Ferrari,7,01:11.6,01:10.9,01:10.4
+2025,8,5/24/25,Monaco Grand Prix,monaco,ocon,Esteban Ocon,haas,Haas-Ferrari,8,01:11.8,01:11.3,01:10.9
+2025,8,5/24/25,Monaco Grand Prix,monaco,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,9,01:11.8,01:11.2,01:11.1
+2025,8,5/24/25,Monaco Grand Prix,monaco,albon,Alexander Albon,williams,Williams-Mercedes,10,01:11.6,01:10.7,01:11.2
+2025,8,5/24/25,Monaco Grand Prix,monaco,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,11,01:11.7,01:11.4,
+2025,8,5/24/25,Monaco Grand Prix,monaco,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,12,01:11.8,01:11.4,
+2025,8,5/24/25,Monaco Grand Prix,monaco,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,13,01:11.9,01:11.6,
+2025,8,5/24/25,Monaco Grand Prix,monaco,russell,George Russell,mercedes,Mercedes,14,01:11.5,,
+2025,8,5/24/25,Monaco Grand Prix,monaco,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,15,01:11.9,,
+2025,8,5/24/25,Monaco Grand Prix,monaco,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,16,01:11.9,,
+2025,8,5/24/25,Monaco Grand Prix,monaco,gasly,Pierre Gasly,alpine,Alpine-Renault,17,01:12.0,,
+2025,8,5/24/25,Monaco Grand Prix,monaco,colapinto,Franco Colapinto,alpine,Alpine-Renault,18,01:12.6,,
+2025,8,5/24/25,Monaco Grand Prix,monaco,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,19,01:12.6,,
+2025,8,5/24/25,Monaco Grand Prix,monaco,bearman,Oliver Bearman,haas,Haas-Ferrari,20,01:12.0,,

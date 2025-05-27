@@ -2258,3 +2258,43 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,6,5/4/25,Miami Grand Prix,miami,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,13,18,0,28,24,31,2,15
 2025,6,5/4/25,Miami Grand Prix,miami,bearman,Oliver Bearman,haas,Haas-Ferrari,19,19,0,28,24,31,2,15
 2025,6,5/4/25,Miami Grand Prix,miami,doohan,Jack Doohan,alpine,Alpine-Renault,14,20,0,28,24,31,2,15
+2025,7,5/18/25,Emilia Romagna GP,imola,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,2,1,25,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,norris,Lando Norris,mclaren,McLaren-Mercedes,4,2,18,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,1,3,15,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,hamilton,Lewis Hamilton,ferrari,Ferrari,12,4,12,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,albon,Alexander Albon,williams,Williams-Mercedes,7,5,10,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,leclerc,Charles Leclerc,ferrari,Ferrari,11,6,8,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,russell,George Russell,mercedes,Mercedes,3,7,6,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,6,8,4,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,9,9,2,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,PL,10,1,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,5,11,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,17,12,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,gasly,Pierre Gasly,alpine,Alpine-Renault,10,13,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,15,14,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,8,15,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,colapinto,Franco Colapinto,alpine,Alpine-Renault,16,16,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,bearman,Oliver Bearman,haas,Haas-Ferrari,19,17,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,14,18,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,13,19,0,18.2,11.8,24.7,0,20
+2025,7,5/18/25,Emilia Romagna GP,imola,ocon,Esteban Ocon,haas,Haas-Ferrari,18,20,0,18.2,11.8,24.7,0,20
+2025,8,5/25/25,Monaco Grand Prix,monaco,norris,Lando Norris,mclaren,McLaren-Mercedes,1,1,25,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,leclerc,Charles Leclerc,ferrari,Ferrari,2,2,18,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,3,3,15,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,4,4,12,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,hamilton,Lewis Hamilton,ferrari,Ferrari,7,5,10,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,5,6,8,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,ocon,Esteban Ocon,haas,Haas-Ferrari,8,7,6,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,9,8,4,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,albon,Alexander Albon,williams,Williams-Mercedes,10,9,2,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,11,10,1,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,russell,George Russell,mercedes,Mercedes,14,11,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,bearman,Oliver Bearman,haas,Haas-Ferrari,20,12,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,colapinto,Franco Colapinto,alpine,Alpine-Renault,18,13,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,16,14,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,19,15,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,13,16,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,12,17,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,15,18,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,6,19,0,15.2,11.7,18,0,12
+2025,8,5/25/25,Monaco Grand Prix,monaco,gasly,Pierre Gasly,alpine,Alpine-Renault,17,20,0,15.2,11.7,18,0,12
