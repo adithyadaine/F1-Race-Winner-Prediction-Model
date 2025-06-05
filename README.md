@@ -1,111 +1,247 @@
-# F1 Race Winner Prediction Model
+
+# F1 Race Winner Prediction
 
 ## Overview
+A machine learning pipeline to predict Formula 1 race winners using a Gradient Boosting Classifier trained on historical race and qualifying data (2020–2025). The project:
+- Loads and cleans race and qualifying datasets (data/processed/updated_races.csv, data/processed/updated_qualifying.csv).
+- Engineers features such as rolling averages of points, positions, grid positions, and pre-race championship standings.
+- Trains a `GradientBoostingClassifier` to estimate win probabilities for each grid entry.
+- Provides reusable functions to prepare a future race grid, recalculate features, run predictions, display results in Markdown tables, and save predictions to CSV.
 
-This project aims to predict the probability of each driver winning a Formula 1 race based on historical data and the starting grid for the upcoming race. It utilizes qualifying and race result data from the 2020 season onwards to train a machine learning model.
+## Repository Structure
+```
+.
+├── data
+│   └── processed
+│       ├── updated_qualifying.csv
+│       └── updated_races.csv
+├── joblogs
+│   └── f1_winner_predictor_model_gbc.joblib
+├── predictions_GBC
+│   └── (generated CSVs of future race predictions)
+├── notebooks
+│   └── f1_winner_prediction.ipynb
+├── README.md
+└── requirements.txt
+```
+- **data/processed/**
+  - `updated_qualifying.csv` – cleaned qualifying results with `driverFullName`, `constructorName`, and `date`.
+  - `updated_races.csv` – cleaned race results with `position`, `points`, and `date`.
+- **joblogs/**
+  - Saved model pipelines (e.g., `f1_winner_predictor_model_gbc.joblib`).
+- **predictions_GBC/**
+  - Outputs of future race predictions (CSV files named `<season>_R<round>_<race>_<circuit>_predictions_GBC.csv`).
+- **notebooks/**
+  - Jupyter Notebook containing all data loading, cleaning, feature engineering, model training, and prediction code.
+- **requirements.txt**
+  - List of Python dependencies.
 
-The model considers factors such as:
-*   Starting grid position
-*   Historical performance associated with the driver (via ID)
-*   Historical performance associated with the constructor (team) (via ID)
-*   The specific circuit (via ID)
-*   **Recent driver performance:** Rolling averages (last 5 races) of points scored, finishing position, and grid position.
-*   **Driver's championship standing:** Cumulative points scored in the season *before* the race being predicted.
+## Prerequisites
+- Python 3.8+ (tested on 3.9)
+- Package manager (pip or conda)
 
-## Features
+## Installation
 
-*   Loads historical F1 qualifying and race data from CSV files.
-*   Preprocesses data, including handling missing values, cleaning names, and encoding categorical features.
-*   Engineers features like rolling performance metrics and championship standings based on historical context.
-*   Trains a `RandomForestClassifier` model using `scikit-learn`.
-*   **Saves the trained model** using `joblib` for efficient reuse.
-*   **Loads the saved model** for making predictions without retraining each time.
-*   Provides helper functions to prepare future race grid data, mapping current driver/team names to historical IDs and handling new entities.
-*   Implements a prediction workflow that correctly calculates time-dependent features (rolling averages, standings) based on the history *up to* the race being predicted.
-*   Provides a wrapper function to orchestrate the prediction process for a future race.
-*   **Saves prediction probabilities** for each race to individual CSV files.
-*   Displays prediction results in a clear, formatted Markdown table within a notebook environment.
-*   Supports retraining the model as new race data becomes available.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/f1-race-prediction.git
+   cd f1-race-prediction
+   ```
 
-## Data Requirements
+2. **Create a virtual environment** (recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate       # MacOS/Linux
+   venv\Scripts\activate.bat    # Windows
+   ```
 
-The model requires two main CSV files:
+3. **Install required packages**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   The `requirements.txt` should include:
+   ```
+   pandas
+   numpy
+   scikit-learn
+   joblib
+   ```
 
-1.  **`qualifying.csv`**: (or your updated file): Contains qualifying results, including driver/constructor names and IDs. Must be kept up-to-date if new drivers/teams appear who don't race (unlikely but possible).
-    *   Expected columns: `season`, `round`, `date`, `raceName`, `circuitId`, `driverId`, `driverFullName`, `constructorId`, `constructorName`, `qualifyPosition`, `q1`, `q2`, `q3`
-2.  **`races.csv`** (or your updated file): Contains race results, including grid positions, final positions, and points. **This file MUST be updated with new race results before retraining.**
-    *   Expected columns: `season`, `round`, `date`, `raceName`, `circuitId`, `driverId`, `driverFullName`, `constructorId`, `constructorName`, `grid`, `position`, `points`, `tavg`, `tmin`, `tmax`, `prcp`, `wspd` (weather columns are loaded but not currently used as features).
+4. **Data Preparation**  
+   Place the following files under `data/processed/`:
+   - `updated_qualifying.csv`
+   - `updated_races.csv`
 
-*   **Important:** Place these CSV files in the same directory as the Jupyter Notebook (`.ipynb`) file.
-*   The code expects specific column names as listed above.
-*   Date columns should be parseable by pandas (`YYYY-MM-DD` or similar format).
+   Each CSV must include:
+   - A `date` column parseable by `pd.to_datetime`.
+   - In `updated_races.csv`: `season`, `round`, `driverId`, `constructorId`, `position`, `points`, `grid`.
+   - In `updated_qualifying.csv`: `season`, `round`, `driverId`, `constructorId`, `driverFullName`, `constructorName`, and `date`.
 
-## Installation / Setup
+## Data Cleaning & Feature Engineering
+- **Driver/Constructor Name Normalization**  
+  The notebook defines `clean_driver_name()` to:
+  - Remove suffixes (e.g., “ Jr.”).
+  - Standardize special characters (e.g., replace `Hülkenberg` → `Hulkenberg`).
+  - Map variations (e.g., both lowercase “antonelli” and “Kimi Antonelli” to `Kimi Antonelli`).
 
-1.  **Python:** Ensure you have Python 3.8 or later installed.
-2.  **Libraries:** Install the required libraries using pip:
-    ```bash
-    pip install pandas numpy scikit-learn ipython joblib
-    ```
-    *(Note: `joblib` is often included with scikit-learn)*
-3.  **Data:** Download or place the `qualifying.csv` and your most up-to-date `races.csv` file in the project directory.
-4.  **Prediction Folder:** The script will automatically create a subfolder named `predictions` (or as specified in the `predict_and_display_results` call) to save the CSV outputs.
+- **calculate_features(df_races, df_qualifying)**  
+  - Sorts and merges full names if missing.
+  - Creates a binary target `is_winner` (1 if `position == 1`, else 0).
+  - Replaces `grid == 0` with `21` (indicating PNC start) and fills missing grids with 21.
+  - Computes rolling averages (window = 5) for `points`, `position`, and `grid`, shifted by one race to avoid leakage:
+    - `avg_points_last_5`, `avg_position_last_5`, `avg_grid_last_5`
+  - Calculates cumulative points per season and shifts by one race to get `points_standings_prev_race`.
+  - Fills NaNs:  
+    - Rolling averages → 0 (for points) or 21 (for position/grid).  
+    - `points_standings_prev_race` → 0.
 
-## Workflow
+## Model Training
+- Located in **Cell 5** of `notebooks/f1_winner_prediction.ipynb`.
+- Features used:
+  ```
+  [
+    "grid",
+    "circuitId",
+    "driverId",
+    "constructorId",
+    "avg_points_last_5",
+    "avg_position_last_5",
+    "avg_grid_last_5",
+    "points_standings_prev_race",
+  ]
+  ```
+- **Preprocessing**  
+  - **Numerical features** (`grid`, `avg_points_last_5`, `avg_position_last_5`, `avg_grid_last_5`, `points_standings_prev_race`) → `SimpleImputer(strategy="median")`.
+  - **Categorical features** (`circuitId`, `driverId`, `constructorId`) → `Pipeline([("imputer", SimpleImputer(strategy="most_frequent")), ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=False))])`.
+  - Combined via `ColumnTransformer`.
+- **Classifier**: `GradientBoostingClassifier(n_estimators=100, learning_rate=0.1, max_depth=3, subsample=0.8, random_state=42)`.
+- **Full pipeline**:  
+  ```python
+  model_pipeline = Pipeline(steps=[
+      ("preprocessor", preprocessor),
+      ("classifier", GradientBoostingClassifier(...)),
+  ])
+  ```
+- After training, the pipeline is saved as:  
+  ```
+  joblogs/f1_winner_predictor_model_gbc.joblib
+  ```
 
-The project is structured as a Jupyter Notebook (`.ipynb`) file. Run the cells sequentially.
+### To Train the Model
+1. Open `notebooks/f1_winner_prediction.ipynb`.
+2. Run cells sequentially up to **Cell 5** (“Model Training”).
+3. Ensure that both `updated_qualifying.csv` and `updated_races.csv` are present in `data/processed/` before running.
+4. After training, verify that `joblogs/f1_winner_predictor_model_gbc.joblib` exists.
 
-**A. Initial Training / Retraining:**
+## Predicting a Future Race
 
-*   **Run Cell 1 (Imports):** Imports necessary libraries.
-*   **Run Cell 2 (Data Loading):** Loads the *latest* `qualifying.csv` and `races.csv` files. **Update the `races.csv` filename in this cell if needed.** Performs basic cleaning.
-*   **Run Cell 3 (Feature Engineering Function & Mapping Creation):** Defines `calculate_features` and runs it on the loaded data. Creates essential Name <-> ID mappings.
-*   **Run Cell 4 (Model Definition and Preprocessing Setup):** Defines the features (including rolling/standings) and sets up the `scikit-learn` preprocessing pipeline.
-*   **Run Cell 5 (Model Training):** Trains the `RandomForestClassifier` model on the prepared data. **Crucially, this cell now saves the trained `model_pipeline` to `f1_winner_predictor_model.joblib`**. Wait for completion.
+### 1. Prepare a Raw Grid
+A “raw grid” is a Python list of dictionaries with keys:
+```python
+[
+    {"driver": <driverFullName>, "team": <constructorName>, "grid": <grid_position>},
+    ...
+]
+```
+Example for Albert Park 2025:
+```python
+albert_park_2025_raw_grid = [
+    {"driver": "Lando Norris",  "team": "McLaren Mercedes",           "grid": 1},
+    {"driver": "Oscar Piastri", "team": "McLaren Mercedes",           "grid": 2},
+    {"driver": "Max Verstappen","team": "Red Bull Racing Honda RBPT", "grid": 3},
+    # … (add all 20 entries)
+]
+```
 
-**B. Making Predictions for a Future Race:**
+### 2. Team Rebrand Map
+Define any constructor name changes for the current season so that they map back to historical `constructorId`:
+```python
+TEAM_REBRAND_MAP = {
+    "Red Bull Racing Honda RBPT": "red_bull",
+    "McLaren Mercedes": "mclaren",
+    "Ferrari": "ferrari",
+    # … all other current-season names → historical ID strings …
+}
+```
 
-*   **Run Cells 6, 7, 8 (Function Definitions):** Ensure the helper functions (`prepare_grid_for_prediction`, `predict_race_winner_probabilities`, `predict_and_display_results`) are defined in the notebook's memory.
-*   **Run "Define Grid" Cell (e.g., Cell 9, 11):** Create a new cell or modify an existing one to define the `raw_grid_list` (using current driver/team names), `circuit_id`, `future_season`, `future_round`, and `race_description` for the race you want to predict.
-*   **Run "Execute Prediction" Cell (e.g., Cell 10, 12):** Create a new cell or modify an existing one. This cell should:
-    1.  Load the saved model using `joblib.load("f1_winner_predictor_model.joblib")`.
-    2.  Call the `predict_and_display_results` wrapper function, passing the loaded model, the grid definition variables, the base dataframes (`races_df`, `qualifying_df`), the mapping dictionaries, the team rebrand map, and the list of model features.
-    *   This function will handle the complex workflow: prepare input -> combine -> recalculate features -> isolate -> predict -> display -> save CSV.
+### 3. Use `predict_and_display_results`
+Call this wrapper to:
+- Map raw grid (full names) to `driverId`/`constructorId` (using historical maps from training data).
+- Combine the future grid with historical `races_df` and recalculate features.
+- Run the model to predict win probabilities.
+- Display results in a Markdown table.
+- Save probabilities to CSV in `predictions_GBC/`.
 
-## Model Details
+#### Example
+```python
+from joblib import load
+from notebooks.f1_winner_prediction import (
+    predict_and_display_results,
+    latest_driver_name_to_id_map,
+    latest_constructor_name_to_id_map,
+    TEAM_REBRAND_MAP,
+    features,
+)
 
-*   **Model Type:** `sklearn.ensemble.RandomForestClassifier`
-*   **Target Variable:** `is_winner` (Binary: 1 if `position` = 1, else 0)
-*   **Key Features Used:**
-    *   `grid`: Starting grid position.
-    *   `circuitId`: Categorical ID for the race track.
-    *   `driverId`: Categorical ID for the driver.
-    *   `constructorId`: Categorical ID for the constructor.
-    *   `avg_points_last_5`: Driver's rolling average points (previous 5 races).
-    *   `avg_position_last_5`: Driver's rolling average finish position (previous 5 races).
-    *   `avg_grid_last_5`: Driver's rolling average grid position (previous 5 races).
-    *   `points_standings_prev_race`: Driver's cumulative points in the season before this race.
-*   **Preprocessing:**
-    *   Categorical features (`circuitId`, `driverId`, `constructorId`) are imputed (most frequent) and then One-Hot Encoded. Unknown categories encountered during prediction are ignored (handled by `handle_unknown='ignore'`).
-    *   Numerical features are imputed using the median value.
-*   **Prediction Workflow:** For future races, features are recalculated by temporarily appending the future race grid to the historical data to ensure time-dependent features reflect the state *before* the predicted race.
+# Load historical DataFrames (races_df & qualifying_df) exactly as in Cell 2 of the notebook.
+# Load trained model:
+model = load("joblogs/f1_winner_predictor_model_gbc.joblib")
 
-## Limitations
+# Define raw grid, e.g. albert_park_2025_raw_grid (20 entries)
+# Then call:
+predict_and_display_results(
+    circuit_id="albert_park",
+    future_season=2025,
+    future_round=1,
+    raw_grid_list=albert_park_2025_raw_grid,
+    model=model,
+    base_races_df=races_df,
+    base_qualifying_df=qualifying_df,
+    driver_name_to_id_hist_map=latest_driver_name_to_id_map,
+    constructor_name_to_id_hist_map=latest_constructor_name_to_id_map,
+    team_rebrand_map_current=TEAM_REBRAND_MAP,
+    model_features_list=features,
+    race_description="2025 Australian Grand Prix",
+    save_path="predictions_GBC"
+)
+```
+- **Outputs**  
+  - A Markdown‐formatted table showing Driver, Grid, Team, and Probability.
+  - CSV file: `predictions_GBC/2025_R01_2025_Australian_Grand_Prix_albert_park_predictions_GBC.csv`.
 
-*   **Model Simplicity:** While incorporating rolling metrics, the RandomForest might not capture all complex temporal patterns or interactions.
-*   **New Entities:** Predictions for drivers with very limited history (rookies) are less reliable as the model has little specific data to learn from. Placeholder IDs are used.
-*   **Cold Start:** Rolling features will be less informative at the very start of a new season (few or no previous races in that season).
-*   **Data Sensitivity:** Accuracy depends on the quality/completeness of historical data. The impact of a small amount of new data (e.g., 1-2 races) might be limited when retraining on a large history.
-*   **No Formal Evaluation:** Rigorous model evaluation (cross-validation, hold-out sets) is not implemented in this predictive setup but would be crucial for assessing true performance.
+## Dependencies
+List of core packages required (also in `requirements.txt`):
+```
+pandas>=1.3.0
+numpy>=1.19.0
+scikit-learn>=1.0.0
+joblib>=1.0.0
+```
+(Optional: `IPython` for display utilities in notebook, but not required for command-line scripts.)
 
-## Future Improvements
+## Directory Creation
+- **joblogs/**: Created automatically if not present when saving `*.joblib`.
+- **predictions_GBC/**: Created automatically by `predict_and_display_results` if not present.
 
-*   Add more sophisticated time-series features or use models designed for sequences (e.g., LSTMs, though likely overkill here).
-*   Experiment with Gradient Boosting models (XGBoost, LightGBM).
-*   Implement proper model evaluation and hyperparameter tuning.
-*   Develop better strategies for handling new drivers (e.g., using average rookie stats, embeddings).
-*   Build a simple interface (e.g., Streamlit) for easier interaction.
+## Tips & Troubleshooting
+- **FileNotFoundError**  
+  - Ensure `updated_qualifying.csv` and `updated_races.csv` are placed under `data/processed/`.
+- **Model Loading Errors**  
+  - If `joblogs/f1_winner_predictor_model_gbc.joblib` is missing, run the training cell first.
+- **New Drivers/Teams**  
+  - Any unmapped driver or constructor in the raw grid will generate a placeholder ID (e.g., `new_driver_<name>`), but their features will default to zeros. Update `TEAM_REBRAND_MAP` or historical name maps if possible.
+- **Empty Probability Issues**  
+  - If the model outputs zero‐probabilities for all grid entries, the code automatically assigns equal probability.
 
-## Attribution
+## Contributing
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes.
+4. Update or add any tests if applicable.
+5. Submit a pull request describing your changes.
 
-Maintained with ❤️ by Adithya D M
+## Contact
+For questions or issues, please open an issue on GitHub or reach out to the project maintainer.
+
+---
+*This README provides all necessary steps to set up, train, and run the F1 race winner prediction pipeline. Follow each section in order to get started quickly.*
