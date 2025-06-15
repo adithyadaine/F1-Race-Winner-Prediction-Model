@@ -2297,3 +2297,43 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,8,5/24/25,Monaco Grand Prix,monaco,colapinto,Franco Colapinto,alpine,Alpine-Renault,18,01:12.6,,
 2025,8,5/24/25,Monaco Grand Prix,monaco,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,19,01:12.6,,
 2025,8,5/24/25,Monaco Grand Prix,monaco,bearman,Oliver Bearman,haas,Haas-Ferrari,20,01:12.0,,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,1,01:12.6,01:12.0,01:11.5
+2025,9,5/31/25,Spanish Grand Prix,catalunya,norris,Lando Norris,mclaren,McLaren-Mercedes,2,01:12.8,01:12.1,01:11.8
+2025,9,5/31/25,Spanish Grand Prix,catalunya,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,3,01:12.8,01:12.4,01:11.8
+2025,9,5/31/25,Spanish Grand Prix,catalunya,russell,George Russell,mercedes,Mercedes,4,01:12.8,01:12.4,01:11.8
+2025,9,5/31/25,Spanish Grand Prix,catalunya,hamilton,Lewis Hamilton,ferrari,Ferrari,5,01:13.1,01:12.4,01:12.0
+2025,9,5/31/25,Spanish Grand Prix,catalunya,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,6,01:12.8,01:12.6,01:12.1
+2025,9,5/31/25,Spanish Grand Prix,catalunya,leclerc,Charles Leclerc,ferrari,Ferrari,7,01:13.0,01:12.5,01:12.1
+2025,9,5/31/25,Spanish Grand Prix,catalunya,gasly,Pierre Gasly,alpine,Alpine-Renault,8,01:13.1,01:12.6,01:12.2
+2025,9,5/31/25,Spanish Grand Prix,catalunya,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,9,01:13.1,01:12.5,01:12.3
+2025,9,5/31/25,Spanish Grand Prix,catalunya,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,10,01:13.1,01:12.5,01:12.3
+2025,9,5/31/25,Spanish Grand Prix,catalunya,albon,Alexander Albon,williams,Williams-Mercedes,11,01:13.0,01:12.6,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,12,01:13.0,01:12.8,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,13,01:13.0,01:12.8,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,14,01:13.0,01:13.1,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,bearman,Oliver Bearman,haas,Haas-Ferrari,15,01:13.1,01:13.3,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,16,01:13.2,,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,ocon,Esteban Ocon,haas,Haas-Ferrari,17,01:13.2,,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,18,01:13.2,,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,colapinto,Franco Colapinto,alpine,Alpine-Renault,19,01:13.3,,
+2025,9,5/31/25,Spanish Grand Prix,catalunya,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,20,01:13.4,,
+2025,10,6/15/25,Canadian Grand Prix,canada,russell,George Russell,mercedes,Mercedes,1,01:12.1,01:11.6,01:10.9
+2025,10,6/15/25,Canadian Grand Prix,canada,verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,2,01:12.1,01:11.6,01:11.1
+2025,10,6/15/25,Canadian Grand Prix,canada,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,3,01:11.9,01:11.7,01:11.1
+2025,10,6/15/25,Canadian Grand Prix,canada,antonelli,Kimi Antonelli,mercedes,Mercedes,4,01:12.3,01:12.0,01:11.4
+2025,10,6/15/25,Canadian Grand Prix,canada,hamilton,Lewis Hamilton,ferrari,Ferrari,5,01:12.0,01:11.9,01:11.5
+2025,10,6/15/25,Canadian Grand Prix,canada,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,6,01:12.1,01:11.8,01:11.6
+2025,10,6/15/25,Canadian Grand Prix,canada,norris,Lando Norris,mclaren,McLaren-Mercedes,7,01:11.8,01:11.6,01:11.6
+2025,10,6/15/25,Canadian Grand Prix,canada,leclerc,Charles Leclerc,ferrari,Ferrari,8,01:12.0,01:11.6,01:11.7
+2025,10,6/15/25,Canadian Grand Prix,canada,albon,Alexander Albon,williams,Williams-Mercedes,9,01:12.1,01:11.9,01:11.9
+2025,10,6/15/25,Canadian Grand Prix,canada,colapinto,Franco Colapinto,alpine,Alpine-Renault,10,01:12.2,01:12.1,
+2025,10,6/15/25,Canadian Grand Prix,canada,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,11,01:12.3,01:12.2,
+2025,10,6/15/25,Canadian Grand Prix,canada,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,12,01:12.2,01:12.0,01:11.9
+2025,10,6/15/25,Canadian Grand Prix,canada,bearman,Oliver Bearman,haas,Haas-Ferrari,13,01:12.3,01:12.3,
+2025,10,6/15/25,Canadian Grand Prix,canada,ocon,Esteban Ocon,haas,Haas-Ferrari,14,01:12.4,01:12.6,
+2025,10,6/15/25,Canadian Grand Prix,canada,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,15,01:12.4,,
+2025,10,6/15/25,Canadian Grand Prix,canada,sainz,Carlos Sainz,williams,Williams-Mercedes,16,01:12.4,,
+2025,10,6/15/25,Canadian Grand Prix,canada,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,17,01:12.5,,
+2025,10,6/15/25,Canadian Grand Prix,canada,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,18,01:12.5,,
+2025,10,6/15/25,Canadian Grand Prix,canada,gasly,Pierre Gasly,alpine,Alpine-Renault,19,01:12.7,,
+2025,10,6/15/25,Canadian Grand Prix,canada,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,20,01:12.3,01:12.1,

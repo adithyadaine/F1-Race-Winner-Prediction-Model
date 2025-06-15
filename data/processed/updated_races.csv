@@ -2298,3 +2298,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,8,5/25/25,Monaco Grand Prix,monaco,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,15,18,0,15.2,11.7,18,0,12
 2025,8,5/25/25,Monaco Grand Prix,monaco,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,6,19,0,15.2,11.7,18,0,12
 2025,8,5/25/25,Monaco Grand Prix,monaco,gasly,Pierre Gasly,alpine,Alpine-Renault,17,20,0,15.2,11.7,18,0,12
+2025,9,6/1/25,Spanish Grand Prix,catalunya,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,1,1,25,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,norris,Lando Norris,mclaren,McLaren-Mercedes,2,2,18,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,leclerc,Charles Leclerc,ferrari,Ferrari,7,3,15,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,russell,George Russell,mercedes,Mercedes,4,4,12,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,15,5,10,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,hamilton,Lewis Hamilton,ferrari,Ferrari,5,6,8,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,9,7,6,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,gasly,Pierre Gasly,alpine,Alpine-Renault,8,8,4,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,alonso,Fernando Alonso,aston_martin,Aston Martin Aramco-Mercedes,10,9,2,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,3,10,1,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,13,11,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,12,12,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,20,13,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,17,14,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,colapinto,Franco Colapinto,alpine,Alpine-Renault,18,15,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,ocon,Esteban Ocon,haas,Haas-Ferrari,16,16,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,bearman,Oliver Bearman,haas,Haas-Ferrari,14,17,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,antonelli,Kimi Antonelli,mercedes,Mercedes,6,18,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,albon,Alexander Albon,williams,Williams-Mercedes,11,19,0,25,24,27,0,9
+2025,9,6/1/25,Spanish Grand Prix,catalunya,stroll,Lance Stroll,aston_martin,Aston Martin Aramco-Mercedes,14,20,0,25,24,27,0,9
