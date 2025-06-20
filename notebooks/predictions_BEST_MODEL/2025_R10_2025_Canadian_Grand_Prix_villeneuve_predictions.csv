@@ -1,21 +1,21 @@
 Driver,Grid,Team,Probability_Num
-Max Verstappen,2,Red Bull Racing Honda RBPT,0.506658
-George Russell,1,Mercedes,0.213082
-Oscar Piastri,3,McLaren Mercedes,0.184606
-Lando Norris,7,McLaren Mercedes,0.024325
-Charles Leclerc,8,Ferrari,0.010613
-Kimi Antonelli,4,Mercedes,0.009547
-Lewis Hamilton,5,Ferrari,0.009237
-Franco Colapinto,10,Alpine Renault,0.005923
-Alexander Albon,9,Williams Mercedes,0.004731
-Fernando Alonso,6,Aston Martin Aramco Mercedes,0.004404
-Gabriel Bortoleto,15,Kick Sauber Ferrari,0.003405
-Lance Stroll,17,Aston Martin Aramco Mercedes,0.003321
-Yuki Tsunoda,20,Red Bull Racing Honda RBPT,0.003262
-Pierre Gasly,19,Alpine Renault,0.003233
-Isack Hadjar,12,Racing Bulls Honda RBPT,0.002649
-Oliver Bearman,13,Haas Ferrari,0.002598
-Esteban Ocon,14,Haas Ferrari,0.002218
-Liam Lawson,18,Racing Bulls Honda RBPT,0.002095
-Carlos Sainz,16,Williams Mercedes,0.002088
-Nico Hulkenberg,11,Kick Sauber Ferrari,0.002007
+George Russell,1,Mercedes,0.222666
+Max Verstappen,2,Red Bull Racing Honda RBPT,0.118260
+Oscar Piastri,3,McLaren Mercedes,0.091265
+Lando Norris,7,McLaren Mercedes,0.025582
+Lewis Hamilton,5,Ferrari,0.009834
+Charles Leclerc,8,Ferrari,0.006863
+Kimi Antonelli,4,Mercedes,0.003687
+Alexander Albon,9,Williams Mercedes,0.002013
+Franco Colapinto,10,Alpine Renault,0.001973
+Fernando Alonso,6,Aston Martin Aramco Mercedes,0.001960
+Isack Hadjar,12,Racing Bulls Honda RBPT,0.001427
+Lance Stroll,17,Aston Martin Aramco Mercedes,0.001334
+Gabriel Bortoleto,15,Kick Sauber Ferrari,0.001203
+Yuki Tsunoda,20,Red Bull Racing Honda RBPT,0.001084
+Carlos Sainz,16,Williams Mercedes,0.001084
+Oliver Bearman,13,Haas Ferrari,0.001069
+Pierre Gasly,19,Alpine Renault,0.000997
+Esteban Ocon,14,Haas Ferrari,0.000971
+Liam Lawson,18,Racing Bulls Honda RBPT,0.000929
+Nico Hulkenberg,11,Kick Sauber Ferrari,0.000893
