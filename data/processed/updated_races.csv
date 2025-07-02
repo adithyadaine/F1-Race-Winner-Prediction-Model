@@ -2338,3 +2338,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,10,6/15/25,Canadian Grand Prix,villeneuve,norris,Lando Norris,mclaren,McLaren-Mercedes,7,18,0,21,17,24,0,13
 2025,10,6/15/25,Canadian Grand Prix,villeneuve,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,19,19,0,21,17,24,0,13
 2025,10,6/15/25,Canadian Grand Prix,villeneuve,albon,Alexander Albon,williams,Williams-Mercedes,10,20,0,21,17,24,0,13
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren-Mercedes,1,1,25,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,3,2,18,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,2,3,15,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,ferrari,Ferrari,4,4,12,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,russell,George Russell,mercedes,Mercedes,5,5,10,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,6,6,8,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,alonso,Fernando Alonso,aston_martin,Aston Martin-Mercedes,11,7,6,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,8,8,4,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,hulkenberg,Nico HŸlkenberg,sauber,Kick Sauber-Ferrari,20,9,2,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,haas,Haas-Ferrari,17,10,1,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,bearman,Oliver Bearman,haas,Haas-Ferrari,15,11,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,13,12,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alpine,Alpine-Renault,10,13,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,stroll,Lance Stroll,aston_martin,Aston Martin-Mercedes,16,14,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,colapinto,Franco Colapinto,alpine,Alpine-Renault,14,15,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,18,16,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,max_verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,7,17,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,9,18,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,albon,Alexander Albon,williams,Williams-Mercedes,12,19,0,31,28,33,0,10
+2025,11,6/29/25,Austrian Grand Prix,red_bull_ring,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,19,20,0,31,28,33,0,10

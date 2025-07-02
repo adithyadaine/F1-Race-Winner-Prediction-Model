@@ -2337,3 +2337,23 @@ season,round,date,raceName,circuitId,driverId,driverFullName,constructorId,const
 2025,10,6/15/25,Canadian Grand Prix,canada,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,18,01:12.5,,
 2025,10,6/15/25,Canadian Grand Prix,canada,gasly,Pierre Gasly,alpine,Alpine-Renault,19,01:12.7,,
 2025,10,6/15/25,Canadian Grand Prix,canada,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,20,01:12.3,01:12.1,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,norris,Lando Norris,mclaren,McLaren-Mercedes,1,01:04.7,01:04.4,01:04.0
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,leclerc,Charles Leclerc,ferrari,Ferrari,2,01:05.2,01:04.7,01:04.5
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,piastri,Oscar Piastri,mclaren,McLaren-Mercedes,3,01:05.0,01:04.6,01:04.6
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,hamilton,Lewis Hamilton,ferrari,Ferrari,4,01:05.1,01:04.9,01:04.6
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,russell,George Russell,mercedes,Mercedes,5,01:05.2,01:04.9,01:04.8
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,lawson,Liam Lawson,racing_bulls,Racing Bulls-Honda RBPT,6,01:05.0,01:05.0,01:04.9
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,verstappen,Max Verstappen,red_bull,Red Bull Racing-Honda RBPT,7,01:05.1,01:04.8,01:04.9
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,bortoleto,Gabriel Bortoleto,sauber,Kick Sauber-Ferrari,8,01:05.1,01:04.8,01:05.1
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,antonelli,Kimi Antonelli,mercedes,Mercedes,9,01:05.2,01:05.1,01:05.3
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,gasly,Pierre Gasly,alpine,Alpine-Renault,10,01:05.1,01:04.8,01:05.6
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,alonso,Fernando Alonso,aston_martin,Aston Martin-Mercedes,11,01:05.2,01:05.1,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,albon,Alexander Albon,williams,Williams-Mercedes,12,01:05.1,01:05.2,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,hadjar,Isack Hadjar,racing_bulls,Racing Bulls-Honda RBPT,13,01:05.1,01:05.2,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,colapinto,Franco Colapinto,alpine,Alpine-Renault,14,01:05.3,01:05.3,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,bearman,Oliver Bearman,haas,Haas-Ferrari,15,01:05.2,01:05.3,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,stroll,Lance Stroll,aston_martin,Aston Martin-Mercedes,16,01:05.3,,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,ocon,Esteban Ocon,haas,Haas-Ferrari,17,01:05.4,,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,tsunoda,Yuki Tsunoda,red_bull,Red Bull Racing-Honda RBPT,18,01:05.4,,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,sainz,Carlos Sainz Jr.,williams,Williams-Mercedes,19,01:05.6,,
+2025,11,6/28/25,Austrian Grand Prix,red_bull_ring,hulkenberg,Nico Hulkenberg,sauber,Kick Sauber-Ferrari,20,01:05.6,,
