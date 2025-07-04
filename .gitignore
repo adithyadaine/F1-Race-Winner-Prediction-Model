@@ -25,22 +25,16 @@ Desktop.ini
 .env
 .env.*
 
-# Predction outputs
-/predictions_GBC
-/predictions_BEST_MODEL
-/predictions_RFC
-/predictions_XGB
+# Prediction files except GBC_Streamlined
+prediction_*
+!prediction_GBC_Streamlined
 
-# Joblib model files
-/joblogs/f1_winner_predictor_model_gbc.joblib
-/joblogs/f1_winner_predictor_model_best.joblib
-/joblogs/f1_winner_predictor_model_rfc.joblib
-/joblogs/f1_winner_predictor_model_xgb.joblib
+# Notebook files except GBC_Streamlined.ipynb
+*.ipynb
+!GBC_Streamlined.ipynb
 
-# Notebooks
-efficiency_GBC.ipynb
-efficiency_RFC.ipynb
-efficiency_XGB.ipynb
-efficiency_XGB_HyperparameterTuning.ipynb
+# Joblogs files except f1_winner_predictor_model_gbc_streamlined.joblib
+joblogs/*
+!joblogs/f1_winner_predictor_model_gbc_streamlined.joblib
 
 Icon
